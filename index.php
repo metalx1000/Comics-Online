@@ -13,7 +13,9 @@
       $.get('list.php',function(data){
         var comics = data.split("\n");
         comics.forEach(function(comic){
-          $("#mainlist").append('<a href="read.php?comic='+comic+'"><li class="list-group-item">'+comic+'</li></a>');
+          if(comic != ""){
+            $("#mainlist").append('<a href="read.php?comic='+comic+'"><li class="list-group-item">'+comic+'</li></a>');
+          }
         });
       });
     });

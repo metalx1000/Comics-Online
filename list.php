@@ -4,7 +4,7 @@ if ($handle = opendir('comics')) {
     {
         if ($file != "." && $file != ".." && strtolower(substr($file, strrpos($file, '.') + 1)) == 'php')
         {
-          echo $file;
+          echo "$file\n";
         }
     }
     closedir($handle);
