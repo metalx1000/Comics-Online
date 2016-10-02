@@ -4,11 +4,11 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head><title>
 	
-    Spider-Man & Wolverine
-    Issue #1
+    Spider-Man, Punisher, Sabretooth: Designer Genes
+    Full
     - Read
-    Spider-Man & Wolverine
-    Issue #1
+    Spider-Man, Punisher, Sabretooth: Designer Genes
+    Full
     comic online in high quality
 
 </title><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><meta http-equiv="X-UA-Compatible" content="IE=edge" /><meta property="fb:admins" content="100006233868825" /><meta property="fb:app_id" content="130397647116314" />
@@ -22,9 +22,9 @@
 <!--[if IE 8]><link rel="stylesheet" type="text/css" href="http://readcomiconline.to/Content/css/tpl_ie_7.css" /><![endif]-->
 
     
-    <meta name="description" content="Read Spider-Man &amp; Wolverine Issue #1 comic online - Spider-Man &amp; Wolverine Issue #1" />
-    <meta name="keywords" content="read Spider-Man &amp; Wolverine Issue #1 comic online, download Spider-Man &amp; Wolverine Issue #1 , Spider-Man & Wolverine Issue #1" />
-    <link rel="image_src" href="http://readcomiconline.to/Uploads/Etc/8-9-2016/2033551534215.jpg" />
+    <meta name="description" content="Read Spider-Man, Punisher, Sabretooth: Designer Genes Full comic online - Spider-Man, Punisher, Sabretooth: Designer Genes Full" />
+    <meta name="keywords" content="read Spider-Man, Punisher, Sabretooth: Designer Genes Full comic online, download Spider-Man, Punisher, Sabretooth: Designer Genes Full , Spider-Man, Punisher, Sabretooth: Designer Genes Full" />
+    <link rel="image_src" href="http://readcomiconline.to/Uploads/Etc/7-22-2016/1767431534266.jpg" />
 
     <script>
         (function (i, s, o, g, r, a, m) {
@@ -216,9 +216,9 @@
 
     <div id="navsubbar">
         <p>
-            <a href="http://readcomiconline.to/Comic/Spider-Man-Wolverine">
+            <a href="http://readcomiconline.to/Comic/Spider-Man-Punisher-Sabretooth-Designer-Genes">
                 Comic
-                Spider-Man & Wolverine
+                Spider-Man, Punisher, Sabretooth: Designer Genes
                 information</a>
         </p>
     </div>
@@ -243,20 +243,8 @@
             <label class="lbl" style="float: left;">Issue</label>
             <select id="selectEpisode" style="float: left; width: 250px">
                 
-                <option value="Issue-1?id=81184" selected>
-                    Issue #1
-                </option>
-                
-                <option value="Issue-2?id=81185" >
-                    Issue #2
-                </option>
-                
-                <option value="Issue-3?id=81186" >
-                    Issue #3
-                </option>
-                
-                <option value="Issue-4?id=81187" >
-                    Issue #4
+                <option value="Full?id=76903" selected>
+                    Full
                 </option>
                 
             </select>
@@ -312,6 +300,92 @@
                 <option value="23">24</option>
                 
                 <option value="24">25</option>
+                
+                <option value="25">26</option>
+                
+                <option value="26">27</option>
+                
+                <option value="27">28</option>
+                
+                <option value="28">29</option>
+                
+                <option value="29">30</option>
+                
+                <option value="30">31</option>
+                
+                <option value="31">32</option>
+                
+                <option value="32">33</option>
+                
+                <option value="33">34</option>
+                
+                <option value="34">35</option>
+                
+                <option value="35">36</option>
+                
+                <option value="36">37</option>
+                
+                <option value="37">38</option>
+                
+                <option value="38">39</option>
+                
+                <option value="39">40</option>
+                
+                <option value="40">41</option>
+                
+                <option value="41">42</option>
+                
+                <option value="42">43</option>
+                
+                <option value="43">44</option>
+                
+                <option value="44">45</option>
+                
+                <option value="45">46</option>
+                
+                <option value="46">47</option>
+                
+                <option value="47">48</option>
+                
+                <option value="48">49</option>
+                
+                <option value="49">50</option>
+                
+                <option value="50">51</option>
+                
+                <option value="51">52</option>
+                
+                <option value="52">53</option>
+                
+                <option value="53">54</option>
+                
+                <option value="54">55</option>
+                
+                <option value="55">56</option>
+                
+                <option value="56">57</option>
+                
+                <option value="57">58</option>
+                
+                <option value="58">59</option>
+                
+                <option value="59">60</option>
+                
+                <option value="60">61</option>
+                
+                <option value="61">62</option>
+                
+                <option value="62">63</option>
+                
+                <option value="63">64</option>
+                
+                <option value="64">65</option>
+                
+                <option value="65">66</option>
+                
+                <option value="66">67</option>
+                
+                <option value="67">68</option>
                 
             </select>
             <div style="float: left; padding-left: 20px">
@@ -374,7 +448,7 @@
         </script>
         <div id="divImage" style="background: url('http://readcomiconline.to/Content/images/loading.gif') no-repeat 50% 50%">
             <br />
-            <img onload="onLoadImg(this);" style="cursor: pointer" id="imgCurrent" src="http://2.bp.blogspot.com/6K2je27Pl5hwK9QpvArV0AWHqvLqufgPU1uSOl3HrYV_DIn-_Kg-AKOVfs0f6YK5aNXC3x4aIJ5g=s0" />
+            <img onload="onLoadImg(this);" style="cursor: pointer" id="imgCurrent" src="http://2.bp.blogspot.com/hAJO_abIlxweuGGDx4lYM7Rdw_v51_upMVJNED3vjf_2d5fA_ntsKSRSjvYqu0tP0YEc09A5uNfW=s0" />
         </div>
         <div id="divMsg" class="banner" style="margin: auto; width: 500px; height: 120px;
             margin-top: 20px; display: none">
@@ -406,7 +480,7 @@
             
 <img src="/Content/images/user-small.png" style="vertical-align: middle; margin-bottom: 5px">
 Please
-<a href="/Login?redirect=%2fComic%2fSpider-Man-Wolverine%2fIssue-1%3fid%3d81184">Login</a> or
+<a href="/Login?redirect=%2fComic%2fSpider-Man-Punisher-Sabretooth-Designer-Genes%2fFull%3fid%3d76903">Login</a> or
 <a href="/Register">Register</a>
 to use <b>Bookmark</b> feature
 
@@ -426,55 +500,141 @@ to use <b>Bookmark</b> feature
 
         var lstImages = new Array();
         
-        lstImages.push("http://2.bp.blogspot.com/6K2je27Pl5hwK9QpvArV0AWHqvLqufgPU1uSOl3HrYV_DIn-_Kg-AKOVfs0f6YK5aNXC3x4aIJ5g=s0");
+        lstImages.push("http://2.bp.blogspot.com/hAJO_abIlxweuGGDx4lYM7Rdw_v51_upMVJNED3vjf_2d5fA_ntsKSRSjvYqu0tP0YEc09A5uNfW=s0");
         
-        lstImages.push("http://2.bp.blogspot.com/iInSzpAZF8g9UvLkrXsXTEPpSo2F3etmIwABYBdH1_GD-mho1lSSMg0s9oX-RJ-_8I8v5EoVsRZ1=s0");
+        lstImages.push("http://2.bp.blogspot.com/l7pdYd005JazNx6mJ8LhvmRDAoCWNcmS3S3WUgktQLkjkYflxKwYLjp0IF95DafevEGp9Yxjer0g=s0");
         
-        lstImages.push("http://2.bp.blogspot.com/kPy0HrS04I_sBpO_6xdJMnW9oJEM1nVGEsx7GcGEy-xLylL0vrQIAwZbnbc2GJTZDwBWtgP0KQjl=s0");
+        lstImages.push("http://2.bp.blogspot.com/5aNAL7AMFK1GtuV-MZU8eoDQQ-SsoR6MovAe3TygRN2ZZhe52XvCulpmQ2QEq9rPole22-Bi5upJ=s0");
         
-        lstImages.push("http://2.bp.blogspot.com/zC6nvTohZAYnTLkLYAg5AT4jvBF1Y7ncXPTXffSWOnHDmiFJvUZo7eyfpaI2V4hxRfJtJvjJNOaH=s0");
+        lstImages.push("http://2.bp.blogspot.com/Z9F2R4KpZWMlJEDSiyqlfetV1dD45Q-y3gqDAjx4aC24GHtN25yEolyleOKM1J67bNIIEMVaDEbp=s0");
         
-        lstImages.push("http://2.bp.blogspot.com/8N_hcDjoshuna9ycipxVTy7x8C-k68zRhxfGLZ5ipjsyjPEb6iQtyB963ECvYAtpz4K8UEiwJPVm=s0");
+        lstImages.push("http://2.bp.blogspot.com/3WkH4lRb85KScgToUNwy-E8yUKUE0pwL6QgSg64cenLqGZwTPYH6FoCzls1Kgl91RbyD8Ku4sgDl=s0");
         
-        lstImages.push("http://2.bp.blogspot.com/FUswFplL_Gs0XJd92GQH6LAYAFWPTsL5hlgbGSs_3D-KXJecH3ddTtpgnn2jmQCxq2Pwegjxzpr-=s0");
+        lstImages.push("http://2.bp.blogspot.com/d0W86pXeL0-UZE3SRbd4H_hFm7RAGj1Vb-k7p3tZWhXKoQcJUKBOCHvXluR7wNX64eIj-mhy_qlZ=s0");
         
-        lstImages.push("http://2.bp.blogspot.com/_ncaKak2S1NljpVQsigbrmciEe6MPZacZvJXUWJSQIsJnO5atkkDVc4em1ZcHBvRJ6OhWv597zNL=s0");
+        lstImages.push("http://2.bp.blogspot.com/LR4LyJikuoO7ms40GK_pVp8FqP1E7zYS5LoSvia9BapwDzssuoB3V2HXyTce_DZgWYj1Int2o_sS=s0");
         
-        lstImages.push("http://2.bp.blogspot.com/VlYIjMLW5VFyGN4rSh8WhfOv6it-GBDsjYtRyPGknhzPVjryFTSoAXpbJKrUWGyLI5qfP7im2caB=s0");
+        lstImages.push("http://2.bp.blogspot.com/RoP7ecQa0LlzXvhP-fgYlNbjvX9UoPVz2shlnIB1Me8zH1atGrQ1NmM02E3yetIoZYfBbPzxiBaD=s0");
         
-        lstImages.push("http://2.bp.blogspot.com/Q8TYEYiU9iQk6h8Hlf_nXb7Zr2i-Cbnq8-NnxuTvGXRD1raX3A5JXhH5h5j8Th7kUMtSwjXNjKdH=s0");
+        lstImages.push("http://2.bp.blogspot.com/_A94E4Uu_LrvdNs28zMPMbuf6hj6FtZvon-vPwGPUMnQZtJJhGMdKWQeC85hTqCDe28q1TdyFNJy=s0");
         
-        lstImages.push("http://2.bp.blogspot.com/6V6UQRIOeOF1sAD5IaSKQP_koJTrsd8r1PsJu0lr3CHJ1tTXHK-Ni5DGTGO1bIak8GATO3GiKIG1=s0");
+        lstImages.push("http://2.bp.blogspot.com/Qjcb24SfFXFd8kxi6QmLIaPYCr9haaEdxJ8f-TT7HkvOSCpuJ7E7jloRAtNDwdz6uzPpFGpQI4Hy=s0");
         
-        lstImages.push("http://2.bp.blogspot.com/aneh_NmAJsN4K0amUkUBQtumby-5dWYAFW7IBnUbpb9hE0R5IUO_YgZv_rTwXv_-znrFN-X4gX3s=s0");
+        lstImages.push("http://2.bp.blogspot.com/VZ3KhMUNAusAQeRJTbxWwpS8fyRu6C-lH0fPb9yCUQkyYwRpp4SF5UQJYlQYsg-xA4HSVDwhtg_l=s0");
         
-        lstImages.push("http://2.bp.blogspot.com/_ViDAur99zePufv77s5cgXDPGxUlvdi6u9eZxRfD8KOyxhAHMKHvrYKHrZwU7Na0D0z9c107_AQ2=s0");
+        lstImages.push("http://2.bp.blogspot.com/T3GV3KYgviLNpnYctx1GcdDJbCrq3ocWhEdws4rkWbDivOpQjK6O8pl_ztqpcv9iX-nYsJ2j-4CB=s0");
         
-        lstImages.push("http://2.bp.blogspot.com/kCFwA9VvDyOXlX6pL9UClo2FDm62aXTwK6LZLC7d9sgV976afBaqbBoYmjBCcQlaKBb-XLbxgrGk=s0");
+        lstImages.push("http://2.bp.blogspot.com/dqO0Gj_WDzNV6-2X52A_V0iCw2uwv3rkXlfBH0FNf9hD6nKvVHHT_HuPtlZPqB5wuAUi420HW_7c=s0");
         
-        lstImages.push("http://2.bp.blogspot.com/SVvG4ICXgKamfOYbTUMGpDJJJYNDPLqyDDWQ5J02pC3lLy1GiAAFjBz-cGgIyuv93zXMZPKG_igT=s0");
+        lstImages.push("http://2.bp.blogspot.com/6kCpPU4IWJOyyAwrV6VxtDDUg7wQ2PYQmS-l_bvqiMkYRbD0j3uVBYlFhYmIVuaeu9VXkqaqGOpy=s0");
         
-        lstImages.push("http://2.bp.blogspot.com/w6qXI8QiM6DDv3JR1HikGWruQLoQC7om_pcef-dZfN_Nw_5wSTsvzvmlVQ3vwAyI7cr7gMZXbR43=s0");
+        lstImages.push("http://2.bp.blogspot.com/9B-DjU6u5dsPwapS6eNzovobV3jLIFUwAQTL79rooFWllwNP7jyeXxVZFtUzk0IEcv9QPpe8-981=s0");
         
-        lstImages.push("http://2.bp.blogspot.com/dhiRAHGfMwy4dlSyByFCsFR4CRwMqqpKo3mrE8EzFw8sVK5UncaPtH7nNnzeeRiD5Q6pFgdpaXJu=s0");
+        lstImages.push("http://2.bp.blogspot.com/LQ1bY1ayFPSHZDv0TX2aaoYMbIhLL9kOnVqwWZ5bThyVjodKp3CCACB9oucIo5k5uOnhy1elUtlI=s0");
         
-        lstImages.push("http://2.bp.blogspot.com/KGkVYc5G6whmd2GduppdJ1I-QlhxjLWVOQYVbONL7GcEa_kzey-kGo3dWB1ENLpwxEuTZ4dvGKcI=s0");
+        lstImages.push("http://2.bp.blogspot.com/ceK98WszzoAQkErsTjL9NxnXytO1doPOWuKA1zHtPaEsXRznh2Fbq4tfT_2QYsZRzg7VR-I-89Zu=s0");
         
-        lstImages.push("http://2.bp.blogspot.com/PXYq3E9hJCizlkZKGjvgrKXAw9FK3p70XuID_NC78LlVxbicVn7hXGCyvId4hVkdVrJrY4Cv7gmS=s0");
+        lstImages.push("http://2.bp.blogspot.com/vAnNS6-BmpSxmJ_IVCHKV3UdkYr3sjLYg1Z8bs7DBj18sVmMuxgp8MGTMgVvGeNnyXhKewSdm5Bx=s0");
         
-        lstImages.push("http://2.bp.blogspot.com/l6mQATh3K0mJznqKed0KnHLvl4nLsyUOq5x0uJahDbSVV5mcXzAbj4y-iw86Zk2u9Z6jZMRbP4vc=s0");
+        lstImages.push("http://2.bp.blogspot.com/oRpi7qIZ1wbTHuOPyNPfoh3JavEwOG8mAF3R_dupIU8IJcj9k3qF2MoaVuWQ9GLm9RvjjTKvsjLY=s0");
         
-        lstImages.push("http://2.bp.blogspot.com/aEsFbrUwkfAp3QcoMi_UucEVfFu_71v6fX3UZv-Ekbg6Q5jJrLpEGUTq93YWSjbEbl5n1QoosCbP=s0");
+        lstImages.push("http://2.bp.blogspot.com/L0YWI8qIeCrivQn9n8I1K-s7rVKcm5AT4BJGd7BTA8fa0UM8lojI7_egM_RwQJt-FQjMtRe4in6a=s0");
         
-        lstImages.push("http://2.bp.blogspot.com/yO7EdZZvebUQEmUQNZANsXo0RFnC9bctGbQ-eOdrsWu9kwvb_pFsJ9jt_j4g7F_TAF8NdSWMm9xl=s0");
+        lstImages.push("http://2.bp.blogspot.com/VZRSUyMzT3VpeMA8OO7La_Ni4wqTe2h4UE_zmxX3A_hYCLgeEJ4lu-mo6Kr-Ft-46rP8cayrGK2y=s0");
         
-        lstImages.push("http://2.bp.blogspot.com/Tte7qDKZNl7Gpn6NlvdCo8Q1qkLFIOy2XrSgJ47NfmJXLqu1IkaYFPbWo8oCNsqEniNmejsBE7ON=s0");
+        lstImages.push("http://2.bp.blogspot.com/CgVnaoo4c38m5DVzNPg62D2IH_usz8BwDC1Mwc5rYsNPLVB6CxewZb2xfbdCPgtrgTRK9zgUuQH9=s0");
         
-        lstImages.push("http://2.bp.blogspot.com/cxAbcqu8AnAjYECONwtgaxotpyQcNqtPzXCbb807cOOQUwALDQSR1-tEX2nFeeSUDRxdL0sgkeKc=s0");
+        lstImages.push("http://2.bp.blogspot.com/HaLXQKgMdPMaM-uY0StTFtGkijR_SkBgXcDnxnqdgh1VFKN4uCLNDfp03wW6wIKfG_cubIsfL-lc=s0");
         
-        lstImages.push("http://2.bp.blogspot.com/ViFS6xUgiDlxZIXZvJlvldHulMV6ofFDWiq9q07FgW_TW8uij4d1TUbG5yzT_nfGYbls4HS9JnSP=s0");
+        lstImages.push("http://2.bp.blogspot.com/kOAkJaKy-RsHeWyncLV-kVQ64bzBySjPWyihJI-4LO25aeEfQkbdyatsiSvH8V_doX9jbLeqxRGF=s0");
         
-        lstImages.push("http://2.bp.blogspot.com/REinCdAFFsCtWb2pNd__MLcDjxdZ4TBnrVbXjSRbdl696Cz1sJMJLeEC0dLZ6zHiBoHKnefBClix=s0");
+        lstImages.push("http://2.bp.blogspot.com/xIbGPLfiibnjIP2NxQVl0n3mU5AJFCQA9TuWRr1mWmZo3S2UKkK2tl9RXwULixezMA8vu360H2qu=s0");
+        
+        lstImages.push("http://2.bp.blogspot.com/vKHwUMuwwFdJlM-4nJ-33_89XKcauY1o-9NrROcPwK7noVXMbmFyM_hcULGMR4NiuhZom2wz2e2g=s0");
+        
+        lstImages.push("http://2.bp.blogspot.com/_kfLrNQaWSTvd5--JKpnKPtoiNAqHkCYFlStEp8ma0q-CyTm2-SgmnlucBfLX34DkQRhV_8X_f9i=s0");
+        
+        lstImages.push("http://2.bp.blogspot.com/QLXzMw-V8pNRpapp0XD_-QsX67HvL1la7s_9JDpDMaY81u0PVWQji063jAaue9LuYXM5hPxKtB3a=s0");
+        
+        lstImages.push("http://2.bp.blogspot.com/t3zMcJR-AD8Z46CWZYlbBGCw33-SE0MRsHiWVBJequ4llhMPPAflC3qXAJX-C1cCstbMLliD8Ycl=s0");
+        
+        lstImages.push("http://2.bp.blogspot.com/tfDovGUXso9UcquI53Zgn_9vjkGxDiD-cx_m6A-pTRHMqsLqfpJz0vkmYTLKey6OfNJF9_uL-Y8G=s0");
+        
+        lstImages.push("http://2.bp.blogspot.com/mOln9hxi_Q9XtGGmEiM23qq7rnZqhS_GDepK0dcD5FuH9kbrZg-RNvCe34qWdxSGajdjFPV1uZn1=s0");
+        
+        lstImages.push("http://2.bp.blogspot.com/aOYBZhls7yVQiBfjzDoRrGLVp4eITDBnsiMEY3xEGuAMvS1_cNCOCbdXxkJsZdYyqLsiePVkfKvn=s0");
+        
+        lstImages.push("http://2.bp.blogspot.com/Iq6JKS5WWyPR2PUGeCguJMBYOIWcLsyzJ1kwq3pBupAa_9amgKjtm0nQnBrhfP9dNsRf_YR_g3UN=s0");
+        
+        lstImages.push("http://2.bp.blogspot.com/tgsUIDHHP0YfOef_yuk0rlrJKSiseBLTNZ4Eysgnv7abdBKeB-ctuC_U2xvoS_EwO40KFDUHZ1-J=s0");
+        
+        lstImages.push("http://2.bp.blogspot.com/9iFh33AwcFUboGmmoWMNuNVyIPsOFZD58h302YUhTAYAmc3Z42OwJ9ODPZYjnCaj52CHP-4mDorv=s0");
+        
+        lstImages.push("http://2.bp.blogspot.com/clqefoFRjnd6P-TqFfn32CM-9K_PkU6QCa2_BOdnswFi6Hz6QzDoD0-7SSsUR5QNStPambIZqaVf=s0");
+        
+        lstImages.push("http://2.bp.blogspot.com/vXB3bZvH0qEmeeMsSem2VFie6PgItQfxr7EhWvJt6dp0OK62E9wm8Pd98v305bFcf7sirDZ0Gmqm=s0");
+        
+        lstImages.push("http://2.bp.blogspot.com/kAiopqfvehOzNsf9D1YvSnZS5u_OvH08iNhGX2MpViICdlkRCE70XOkrwAyqdz4z-mCH7xnMxb0B=s0");
+        
+        lstImages.push("http://2.bp.blogspot.com/fKQ9N90iE4o7ovIsA9qgDG3XORyNQAxPdAEmejYQJi9cnnTRDHdHHC38SZxa7rIn67mS1QbWoohE=s0");
+        
+        lstImages.push("http://2.bp.blogspot.com/EU1qdnG8SuAWnGqRe27iUcKu7brE3Jun1Tkuhxzeo5E7xBdWNbSXoE-icchmImxNggtx7dX-Gy8c=s0");
+        
+        lstImages.push("http://2.bp.blogspot.com/ptBNi5GhLhCyF4uhK5UsTS7uYbimDsfxoIWdMuALd1lXbLGJqAZ9lovHYePU3KnKSpTWuySxMc6A=s0");
+        
+        lstImages.push("http://2.bp.blogspot.com/um51f4voKHl20F7WD7F3gMC4zXT1sdCwGJCt1gOP52tcz_B0iv6Kd8_GD30bxTYT4VimK_4fFNb0=s0");
+        
+        lstImages.push("http://2.bp.blogspot.com/m5PJ5Z8NPiqtz0VKjkLiHV7ubgmT1TnZj8XttSAkG2n60S2wW4FF8hChZSFu-UAo7F-gRpxQlLQQ=s0");
+        
+        lstImages.push("http://2.bp.blogspot.com/uyU5q1m1hEduGEIMJgI0tUTNfhq_DDkR8mlZ7rDpme8ymYgO6azgG3MnhMb5cMNUvfF9nAMnPYXH=s0");
+        
+        lstImages.push("http://2.bp.blogspot.com/Rs1e8tifjGruSUw-Sbt6zSZ8plF8U9zaZBQDfe2TWPtn1Zp1X5WJleaIUWyb4YWwMbNO2uvGx1eJ=s0");
+        
+        lstImages.push("http://2.bp.blogspot.com/dizVUi4wWjJI2-Bvbm1TSAoZQuFDrrPigZ3ohzWG5w5A1BD8Ikw8FDkf02ZaEVqcBEyOMQY3LFdd=s0");
+        
+        lstImages.push("http://2.bp.blogspot.com/osTlvuCrdBUm0Rwb33eRTPo0sOgX3X7aDhkB1HX1yEZQAZmtTh8mkZSJhTlqnHnGw1iWEMwrmHvP=s0");
+        
+        lstImages.push("http://2.bp.blogspot.com/wSdYCysrEk22EqwjwuRtfYJ0x_6i_3wD9M-x_JbvJainx5sx2dwqyV857lJigR3u6jDl33PkAj-k=s0");
+        
+        lstImages.push("http://2.bp.blogspot.com/pSGpasMbHjUYehLJhhCuow8luOVaCaiL1fD71AL8xpYSZQES-M8NCT8rMkmo3G3nfyOeb1i-47ei=s0");
+        
+        lstImages.push("http://2.bp.blogspot.com/kLADFpgiAwa69zc-9VbOEFVxs6W5Kevl9dhpTeB3gce6Q26CmJREfsvqTbA1WeIcvF3msREdiaYm=s0");
+        
+        lstImages.push("http://2.bp.blogspot.com/6oF0W5gcqs6H30D8y6MzZsWANCIuLfjhNJA5Tg5qCQhFRTp_ygHp6oLNe_oM_f4r9NTdNdAKyQO_=s0");
+        
+        lstImages.push("http://2.bp.blogspot.com/po_XhCjNfSjPb5QjuDSfDN-QRtRYRN542TJSezLgT1MfAZASXlDeV62MBZPACo7gKngRjx-9WGaO=s0");
+        
+        lstImages.push("http://2.bp.blogspot.com/es0CfJ2mo8Bi0UhtpakweNIYcI4K9d9FhGsQu9mG7uXFVxyiXdWLmgJfF_eCDYXuAY4x-XYmtAED=s0");
+        
+        lstImages.push("http://2.bp.blogspot.com/0Zq_bhxaEML1IrNENy-CE5MVH6lFCK1dg20iJGsXOWh1X1sqV27nP2pnamkUl5Nf85RUuED2W0vR=s0");
+        
+        lstImages.push("http://2.bp.blogspot.com/j8QH1VsAVM3VHhiH8hYHV9jRbMlZCAuQ1GkAD1duv4XsnSmMBz4cRDE1QlijXVtyme_ie40KsUxI=s0");
+        
+        lstImages.push("http://2.bp.blogspot.com/NjsDe6gi5PKYDne7GubgA20FDo3a7Sh6iUM075Bqq5T6frd7ZL6W1fbX5KaS7cDDXwrRYCrV186y=s0");
+        
+        lstImages.push("http://2.bp.blogspot.com/cgcngiLy70ThEcIUeMy36nzNAqlp6Quao3kM25T1PcHA7YXHYy3xEbE_Jr8V3FvBgmO7AoVxdy4h=s0");
+        
+        lstImages.push("http://2.bp.blogspot.com/tkAqpKTCWe81M-5G3wUJQGRzwkbvWoxuQTkwLLg3jvb7qSoVqXDXpaKqhHOvlLJiNLwvWHwD_slh=s0");
+        
+        lstImages.push("http://2.bp.blogspot.com/aV5At17jxixsd-RBfOs9ZV7J4pDg_nAUDW1PauQo__gDM3swW8OS7UFlLiE5WTfECXVXMNBIimC0=s0");
+        
+        lstImages.push("http://2.bp.blogspot.com/6uZVuIluyqfDZ5pN72sC4xAaF623kpRg3K3pncYAr346i29S0_O5bKyci25Sjoh9qlS4-eG5Bn8E=s0");
+        
+        lstImages.push("http://2.bp.blogspot.com/lvyOCXN71Pa4n-JfYQp_UKyyuofZfijCs0CZMDorGWGzFzkYVcr0i_HIsI18edYso9Hz6FiCby-Z=s0");
+        
+        lstImages.push("http://2.bp.blogspot.com/L7_CDwFxlLuEO43UsSrKl1CihskYDltZfg8ByhptYgITIBuS_ukt6nVZBI3wJLI9eY_oWRCQH_Fx=s0");
+        
+        lstImages.push("http://2.bp.blogspot.com/f-fBLuaqsrFlXL9NapVoQtq0ymSvpeOtVPDI6ch1q9LFdS2FtqCD0ZDM9DWT-UL5UQXcPC5_k3Br=s0");
+        
+        lstImages.push("http://2.bp.blogspot.com/z6ZCMzjEmSyjPj0tXicJKvaumXKNwkGyu_mbt-tT0OwNNPNvWqVqlxv6T0KUc07x1N-TEiw-GZrB=s0");
+        
+        lstImages.push("http://2.bp.blogspot.com/u_LVP8RaNkhE7ZygiYjVwNBNTb0aDg_dNcGb7Fs7QF-2zn0UqUJ7MxWUhohgFp28CcZ-_9erxrN_=s0");
+        
+        lstImages.push("http://2.bp.blogspot.com/ZlY9PVLnO1X3_myj6A1MuPZZQz6y1XM71ZYLt_Kw7DRLeWbqj_rclnVQsUj-xcQsIIF1byihAYcz=s0");
+        
+        lstImages.push("http://2.bp.blogspot.com/v894PEzQdkGR43TRTlt9NYzF1ePn92iSKa-Mu0ValOwDnB8GJshwjqcjBedIFv1iHW4mCrtcUcZo=s0");
+        
+        lstImages.push("http://2.bp.blogspot.com/YaV8I1RzSJ0FFWCpjsAto5OlY87B3a5VWPBx26RxJw9DxFALmCj-gbxX1DjlzBkCYKBSJ13Siqug=s0");
         
         var currImage = 0;
         var start = location.href.indexOf('#');
@@ -521,15 +681,15 @@ to use <b>Bookmark</b> feature
         });
 
         $('#selectEpisode').change(function() {
-            location.href = 'http://readcomiconline.to/Comic/Spider-Man-Wolverine/' + $(this).val();
+            location.href = 'http://readcomiconline.to/Comic/Spider-Man-Punisher-Sabretooth-Designer-Genes/' + $(this).val();
         });
 
         $('#selectReadType').change(function() {
-            window.location = 'http://readcomiconline.to/Comic/Spider-Man-Wolverine/Issue-1?id=81184&readType=' + $(this).val();
+            window.location = 'http://readcomiconline.to/Comic/Spider-Man-Punisher-Sabretooth-Designer-Genes/Full?id=76903&readType=' + $(this).val();
         });
 
         $('#selectQuality').change(function() {
-            window.location = 'http://readcomiconline.to/Comic/Spider-Man-Wolverine/Issue-1?id=81184&quality=' + $(this).val();
+            window.location = 'http://readcomiconline.to/Comic/Spider-Man-Punisher-Sabretooth-Designer-Genes/Full?id=76903&quality=' + $(this).val();
         });
 
         function Next() {
@@ -544,7 +704,7 @@ to use <b>Bookmark</b> feature
             else {
                 var nextOption = $('#selectEpisode').find('option:selected').next();
                 if (nextOption.length) {
-                    location.href = 'http://readcomiconline.to/Comic/Spider-Man-Wolverine/' + nextOption.val();
+                    location.href = 'http://readcomiconline.to/Comic/Spider-Man-Punisher-Sabretooth-Designer-Genes/' + nextOption.val();
                 }
                 else {
                     $('#divImage').empty();
@@ -564,7 +724,7 @@ to use <b>Bookmark</b> feature
             else {
                 var previousOption = $('#selectEpisode').find('option:selected').prev();
                 if (previousOption.length) {
-                    location.href = 'http://readcomiconline.to/Comic/Spider-Man-Wolverine/' + previousOption.val();
+                    location.href = 'http://readcomiconline.to/Comic/Spider-Man-Punisher-Sabretooth-Designer-Genes/' + previousOption.val();
                 }
                 else {
                     alert('This is first Issue!');
@@ -573,7 +733,7 @@ to use <b>Bookmark</b> feature
         }
 
         function SetImage() {
-            location.href = "/Comic/Spider-Man-Wolverine/Issue-1?id=81184" + "#" + (currImage + 1);
+            location.href = "/Comic/Spider-Man-Punisher-Sabretooth-Designer-Genes/Full?id=76903" + "#" + (currImage + 1);
             $('#imgCurrent').attr('src', lstImages[currImage]);
             $('#selectPage').val(currImage);
             document.getElementById('aCurr').scrollIntoView(true);
@@ -654,2101 +814,7 @@ to use <b>Bookmark</b> feature
     </div>
     <script type="text/javascript">
         var disqus_shortname = 'readcomiconline'; // required: replace example with your forum shortname
-        var disqus_url = 'http://readcomiconline.to/Comic/Spider-Man-Wolverine/Issue-1?id=81184';
-
-        /* * * DON'T EDIT BELOW THIS LINE * * */
-        (function () {
-            var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-            dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
-            (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-        })();        
-    </script>
-</div>
-<div class="clear2">
-    &nbsp;</div>
-<div style="text-align: center;">
-    <a href="#">[ Back to top ]</a>
-</div>
-
-        <!-- end div container -->
-        <div class="clear">
-            &nbsp;</div>
-        <div class="clear">
-            &nbsp;</div>
-        <div class="clear">
-            &nbsp;</div>
-        
-    </div>
-    
-    <div id="footer">
-        <div id="footcontainer" style="position: relative">
-            <p>
-                From 2015 <a href="http://readcomiconline.to">ReadComicOnline.to</a>. Copyrights and trademarks
-                for the comic, and other promotional materials are held by their respective owners
-                and their use is allowed under the fair use clause of the Copyright Law.
-                
-
-<a href="/Message/PrivacyPolicy">Privacy Policy</a>&nbsp;|&nbsp;<a href="/Message/DMCA">DMCA</a>&nbsp;|&nbsp;<a target="_blank" href="https://www.facebook.com/messages/readcomiconlineweb">Contact us</a>&nbsp;&nbsp;</p>
-        </div>
-    </div>
-    <script type="text/javascript">
-        $('#footer').css('top', $(document).height() - $('#containerRoot').height());
-    </script>
-</body>
-</html>
-
-
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
-<head><title>
-	
-    Spider-Man & Wolverine
-    Issue #1
-    - Read
-    Spider-Man & Wolverine
-    Issue #1
-    comic online in high quality
-
-</title><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><meta http-equiv="X-UA-Compatible" content="IE=edge" /><meta property="fb:admins" content="100006233868825" /><meta property="fb:app_id" content="130397647116314" />
-<script type="text/javascript" src="/Scripts/jquery17.min.js"></script>
-<!-- CSS -->
-<link href="http://readcomiconline.to/Content/css/tpl_style.css?v=14" rel="stylesheet" type="text/css" />
-<link href="http://readcomiconline.to/Content/css/upload-progress.css" rel="stylesheet" type="text/css">
-<link rel="shortcut icon" href="http://readcomiconline.to/Content/images/favicon.ico" type="image/x-icon" />
-<!--[if IE 6]><link href="http://readcomiconline.to/Content/css/tpl_ie_6.css"  rel="stylesheet" type="text/css" media="screen" /><![endif]-->
-<!--[if IE 7]><link rel="stylesheet" type="text/css" href="http://readcomiconline.to/Content/css/tpl_ie_7.css" /><![endif]-->
-<!--[if IE 8]><link rel="stylesheet" type="text/css" href="http://readcomiconline.to/Content/css/tpl_ie_7.css" /><![endif]-->
-
-    
-    <meta name="description" content="Read Spider-Man &amp; Wolverine Issue #1 comic online - Spider-Man &amp; Wolverine Issue #1" />
-    <meta name="keywords" content="read Spider-Man &amp; Wolverine Issue #1 comic online, download Spider-Man &amp; Wolverine Issue #1 , Spider-Man & Wolverine Issue #1" />
-    <link rel="image_src" href="http://readcomiconline.to/Uploads/Etc/8-9-2016/2033551534215.jpg" />
-
-    <script>
-        (function (i, s, o, g, r, a, m) {
-            i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
-                (i[r].q = i[r].q || []).push(arguments)
-            }, i[r].l = 1 * new Date(); a = s.createElement(o),
-      m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
-        })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
-
-        ga('create', 'UA-63783416-4', 'auto');
-        ga('send', 'pageview');
-    </script>
-</head>
-<body>
-    
-    <div id="containerRoot">
-        <div id="head">
-            <h3>
-                
-<div style="position: relative; text-align: right; margin: -40px 46px 20px 0px; font: bold 13px Arial;">
-    
-    <div id="topHolderBox" style="width: 230px; height: 30px;">
-        <img src="http://readcomiconline.to/Content/images/user-small.png" style="vertical-align: middle; margin-bottom: 5px">
-        Please <a class="red" href="http://readcomiconline.to/Login">login</a>
-        or <a class="red" href="http://readcomiconline.to/Register">register</a>
-    </div>
-    
-</div>
-
-                <div id="search" style="position: relative">
-                    <form id="formSearch" method="post">
-                    <p>
-                        <input style="width: 250px" id="keyword" name="keyword" value="" class="text" autocomplete="off" />
-                        <input id="imgSearch" type="image" src="http://readcomiconline.to/Content/images/search.png"
-                            class="button" onclick="return false;" />
-                    </p>
-                    <div id="result_box" style="display: none; left: 57px; margin-top: -3px">
-                    </div>
-                    <div style="float: left; width: 240px; text-align: left; margin-left: 58px;">
-                        <div style="float: left; width: 90px">
-                            <iframe src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com%2Freadcomiconlineweb&amp;send=false&amp;layout=button_count&amp;width=100&amp;show_faces=false&amp;action=like&amp;colorscheme=dark&amp;font&amp;height=21"
-                                scrolling="no" frameborder="0" style="border: none; overflow: hidden; width: 100px;
-                                height: 21px;" allowtransparency="true"></iframe>
-                        </div>
-                        <div style="float: left; width: 85px">
-                            <!-- Place this tag where you want the +1 button to render. -->
-                            <div class="g-plusone" data-size="medium" data-href="http://readcomiconline.to">
-                            </div>
-                            <!-- Place this tag after the last +1 button tag. -->
-                            <script type="text/javascript">
-                                (function() {
-                                    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
-                                    po.src = 'https://apis.google.com/js/plusone.js';
-                                    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
-                                })();
-                            </script>
-                        </div>
-                        <div style="float: left; width: 65px">
-                            <a href="https://twitter.com/ReadComicOnline" class="twitter-follow-button" data-show-screen-name="false" data-lang="en" data-show-count="false">&nbsp;</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-                        </div>
-                    </div>
-                    <div style="margin: 10px 48px 10px 0">
-                        <a href="http://readcomiconline.to/AdvanceSearch">
-                            <img src="http://readcomiconline.to/Content/images/read.png"
-                                width="16px" border="0" style="vertical-align: middle" />&nbsp;&nbsp;Adv Search</a>
-                    </div>
-                    </form>
-                </div>
-                <script type="text/javascript">
-                    $('#imgSearch').click(function () {
-                        Submit();
-                    });
-
-                    var delay = (function () {
-                        var timer = 0;
-                        return function (callback, ms) {
-                            clearTimeout(timer);
-                            timer = setTimeout(callback, ms);
-                        };
-                    })();
-
-                    $('#keyword').keyup(function () {
-                        delay(function () {
-                            Suggest();
-                        }, 500);
-                    });
-
-                    $('#selectSearch').change(function () {
-                        Suggest();
-                    });
-
-                    $("#selectSearch option").each(function () {
-                        var url = location.href;
-                        if (url.indexOf($(this).attr('value')) != -1)
-                            $(this).attr("selected", "selected");
-                    });
-
-                    function Submit() {
-                        if ($.trim($('#keyword').val()).length < 2) {
-                            $('#keyword').blur();
-                            alert('Keyword must be more than one character!');
-                        }
-                        else {
-                            $("#formSearch").attr('action', "/Search/Comic");
-                            $("#formSearch").submit();
-                        }
-                    }
-
-
-                    function Suggest() {
-                        var keyword = $.trim($('#keyword').val());
-                        if (keyword != "") {
-                            $('#result_box').html("<span id='loader'></span>");
-                            $('#result_box').css('display', 'block');
-                            $.ajax(
-                            {
-                                type: "POST",
-                                url: "/Search/SearchSuggest",
-                                data: "type=Comic" + '&keyword=' + encodeURIComponent(keyword),
-                                success: function (message) {
-                                    if (message != "") {
-                                        $('#result_box').html(message);
-                                    }
-                                    else {
-                                        //$('#result_box').html('');
-                                        //$('#result_box').css('display', 'none');
-                                        $('#result_box').html('<a href="#" onclick="return false;">Press Enter to search...</a>');
-                                    }
-                                }
-                            });
-                        }
-                        else {
-                            $('#result_box').html('');
-                            $('#result_box').css('display', 'none');
-                        }
-                    }
-
-                    $(document).click(function (e) {
-                        var container = $("#search");                        
-                        if (container.has(e.target).length == 0) {
-                            $("#result_box").hide();
-                        }
-                    });
-                </script>
-            </h3>
-            <h1>
-                <a href="http://readcomiconline.to" title="ReadComicOnline - High quality comic online"
-                    class="logo">ReadComicOnline.to</a></h1>
-        </div>
-        <!-- end div head -->
-        <div class="clear">
-        </div>
-        <div id="headnav">
-            
-<div id="navbar">
-    <div id="navcontainer">
-        <ul>
-            <li id="liHome"><a href="http://readcomiconline.to">Home</a></li>
-            <li id="liDS"><a href="http://readcomiconline.to/ComicList">
-                Comic list</a></li>
-            <li id="li1"><a target="_blank" href="http://kissmanga.com/">Manga list</a></li>
-            <li id="liReportError"><a href="/Message/ReportError">Report Error</a></li>
-            <li id="liRequest"><a rel="nofollow" target="_blank" href="https://www.facebook.com/messages/readcomiconlineweb">
-                Request Comic</a></li>
-            
-            <li id="liCommunity"><a rel="nofollow" target="_blank" href="http://forum.kissanime.com">Forum</a></li>
-            <li id="li3"><a target="_blank" rel="nofollow" href="http://kissanime.to/">Watch anime</a></li>
-            <li id="li2"><a target="_blank" rel="nofollow" href="http://kisscartoon.me/">Watch cartoon</a></li>
-        </ul>
-    </div>
-</div>
-<script type="text/javascript">
-    var path = 'Comic';
-    if (path == 'Home')
-        $('#liHome a').attr('id', 'currentTab');
-    else if (path == 'Comic' || path == 'Genre' || path == 'Group')
-        $('#liDS a').attr('id', 'currentTab');
-    else if (document.URL.indexOf('GoPremium') >= 0)
-        $('#liGoPremium a').attr('id', 'currentTab');
-    else if (document.URL.indexOf('FreeDownload') >= 0)
-        $('#liDS a').attr('id', 'currentTab');
-    else if (document.URL.indexOf('FAQ') >= 0)
-        $('#liFAQ a').attr('id', 'currentTab');
-    else if (path == 'Error')
-        $('#liReport a').attr('id', 'currentTab');
-    else
-        $('#navcontainer a[href*="' + path + '"]').attr('id', 'currentTab');
-</script>
-
-    <div id="navsubbar">
-        <p>
-            <a href="http://readcomiconline.to/Comic/Spider-Man-Wolverine">
-                Comic
-                Spider-Man & Wolverine
-                information</a>
-        </p>
-    </div>
-
-        </div>
-        <!-- end div headnav -->
-        
-    
-    <div style="width: 95%; text-align: center; margin: auto">
-        <!-- Episodes and pages -->
-        <div style="margin: auto; width: 885px; padding-top: 10px">
-            <label class="lbl" style="float: left;">Quality</label>
-            <select id="selectQuality" style="float: left; min-width: 93px">
-                <option value="hq" selected>High quality</option>
-                <option value="lq" >Low quality</option>
-            </select>
-            <label class="lbl" style="float: left;">Reading type</label>
-            <select id="selectReadType" style="float: left; min-width: 93px">
-                <option value="0" selected>One page</option>
-                <option value="1">All pages</option>
-            </select>
-            <label class="lbl" style="float: left;">Issue</label>
-            <select id="selectEpisode" style="float: left; width: 250px">
-                
-                <option value="Issue-1?id=81184" selected>
-                    Issue #1
-                </option>
-                
-                <option value="Issue-2?id=81185" >
-                    Issue #2
-                </option>
-                
-                <option value="Issue-3?id=81186" >
-                    Issue #3
-                </option>
-                
-                <option value="Issue-4?id=81187" >
-                    Issue #4
-                </option>
-                
-            </select>
-            <label class="lbl" style="float: left;">Page</label>
-            <select id="selectPage" style="float: left; width: 50px">
-                
-                <option value="0">1</option>
-                
-                <option value="1">2</option>
-                
-                <option value="2">3</option>
-                
-                <option value="3">4</option>
-                
-                <option value="4">5</option>
-                
-                <option value="5">6</option>
-                
-                <option value="6">7</option>
-                
-                <option value="7">8</option>
-                
-                <option value="8">9</option>
-                
-                <option value="9">10</option>
-                
-                <option value="10">11</option>
-                
-                <option value="11">12</option>
-                
-                <option value="12">13</option>
-                
-                <option value="13">14</option>
-                
-                <option value="14">15</option>
-                
-                <option value="15">16</option>
-                
-                <option value="16">17</option>
-                
-                <option value="17">18</option>
-                
-                <option value="18">19</option>
-                
-                <option value="19">20</option>
-                
-                <option value="20">21</option>
-                
-                <option value="21">22</option>
-                
-                <option value="22">23</option>
-                
-                <option value="23">24</option>
-                
-                <option value="24">25</option>
-                
-            </select>
-            <div style="float: left; padding-left: 20px">
-                <img id='btnPrevious' src="http://readcomiconline.to/Content/images/previous.png" title="Previous page" style="cursor: pointer;" />&nbsp;&nbsp;
-                <img id='btnNext' src="http://readcomiconline.to/Content/images/next.png" title="Next page" style="cursor: pointer" />
-            </div>
-        </div>
-        <!-- End Episodes and pages -->
-        <div class="clear">&nbsp;</div>
-        <!-- Ads -->
-        <div style="height:1px">
-        <a href="javascript:void(0)" id="aCurr">&nbsp;</a>
-        </div>
-        
-<div class="clear2"></div>
-   
-<iframe sandbox="allow-same-origin allow-scripts allow-popups allow-forms" id="adsIfrme6" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" src="http://readcomiconline.to/Ads/smaato300read1.aspx" width="300px" height="250px">
-</iframe>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<iframe sandbox="allow-same-origin allow-scripts allow-popups allow-forms" id="adsIfrme8" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" src="http://readcomiconline.to/Ads/smaato300read2.aspx" width="300px" height="250px">
-</iframe>
-
-<div class="clear2">&nbsp;</div>
-<div class="clear2">&nbsp;</div>
-
-        <!-- Read -->
-        <div style="clear: both">&nbsp;
-        </div>
-        <script type="text/javascript">
-            var requestFix = false;
-            function onLoadImg(ele) {
-                if (!requestFix) {
-                    var srcImage = $(ele).attr('src');
-                    if ($(ele).width() == 200 && $(ele).height() == 200) {
-                        $.ajax({
-                            url: srcImage,
-                            type: 'GET',
-                            complete: function (xhr, textStatus) {
-                                if (xhr.status == 404) {
-                                    requestFix = true;
-                                    $.ajax({
-                                        type: "POST",
-                                        url: "/External/RPB",
-                                        success: function (message) {
-                                            if (message == "0") {
-                                                alert("This issue is broken, we're working to fix it.");
-                                            } else {
-                                                //alert("There is network problem, please try to refresh browser.");
-                                            }
-                                        }
-                                    });
-                                }
-                            }
-                        });
-                    }
-                }
-            }
-        </script>
-        <div id="divImage" style="background: url('http://readcomiconline.to/Content/images/loading.gif') no-repeat 50% 50%">
-            <br />
-            <img onload="onLoadImg(this);" style="cursor: pointer" id="imgCurrent" src="http://2.bp.blogspot.com/6K2je27Pl5hwK9QpvArV0AWHqvLqufgPU1uSOl3HrYV_DIn-_Kg-AKOVfs0f6YK5aNXC3x4aIJ5g=s0" />
-        </div>
-        <div id="divMsg" class="banner" style="margin: auto; width: 500px; height: 120px;
-            margin-top: 20px; display: none">
-            <div style="float: left; width: 390px">
-                <p style="font-size: 14px; padding: 16px 0 0 6px">
-                    No more issues today :(. Please come back later ^^!
-                </p>
-            </div>
-            <div style="float: right; width: 110px">
-                <img src="http://readcomiconline.to/Content/images/error.png" style="border: 0px" />
-            </div>
-        </div>
-        <div class="btnZoom-container">
-            <a href="javascript:void(0)" class="zoom-header"></a>
-            <a href="javascript:void(0)" class="btnZoom zoomIn" style="margin-right: 3px;">+</a>
-            <a href="javascript:void(0)" class="btnZoom zoomOut">-</a>
-        </div>
-        <div class="clear">&nbsp;</div>
-        
-<iframe id="adsIfrme7" frameborder="0" scrolling="no" src="http://readcomiconline.to/ads/mgid.aspx" width="820px" height="297px">
-</iframe>  
-<div class="clear2">&nbsp;</div>
-<iframe sandbox="allow-same-origin allow-scripts allow-popups allow-forms" id="adsIfrme10" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" src="http://readcomiconline.to/Ads/smaato728b.aspx" width="728px" height="90px">
-</iframe>
-
-        <div class="clear">&nbsp;</div>
-        <div class="clear2">&nbsp;</div>
-        <div>
-            
-<img src="/Content/images/user-small.png" style="vertical-align: middle; margin-bottom: 5px">
-Please
-<a href="/Login?redirect=%2fComic%2fSpider-Man-Wolverine%2fIssue-2%3fid%3d81184">Login</a> or
-<a href="/Register">Register</a>
-to use <b>Bookmark</b> feature
-
-        </div>
-        <div class="clear2">&nbsp;</div>
-        <div>
-            Click on image go to next page, or use the arrow keys <b><- -></b> go to next/prev page.<br />
-            <b>You can choose reading type 'One page'/'All pages' on top.</b>
-        </div>
-        <div class="clear2">&nbsp;</div>
-        <div class="clear2">&nbsp;</div>
-    </div>
-    <script type="text/javascript">
-        function isNumber(n) {
-            return !isNaN(parseFloat(n)) && isFinite(n);
-        }
-
-        var lstImages = new Array();
-        
-        lstImages.push("http://2.bp.blogspot.com/6K2je27Pl5hwK9QpvArV0AWHqvLqufgPU1uSOl3HrYV_DIn-_Kg-AKOVfs0f6YK5aNXC3x4aIJ5g=s0");
-        
-        lstImages.push("http://2.bp.blogspot.com/iInSzpAZF8g9UvLkrXsXTEPpSo2F3etmIwABYBdH1_GD-mho1lSSMg0s9oX-RJ-_8I8v5EoVsRZ1=s0");
-        
-        lstImages.push("http://2.bp.blogspot.com/kPy0HrS04I_sBpO_6xdJMnW9oJEM1nVGEsx7GcGEy-xLylL0vrQIAwZbnbc2GJTZDwBWtgP0KQjl=s0");
-        
-        lstImages.push("http://2.bp.blogspot.com/zC6nvTohZAYnTLkLYAg5AT4jvBF1Y7ncXPTXffSWOnHDmiFJvUZo7eyfpaI2V4hxRfJtJvjJNOaH=s0");
-        
-        lstImages.push("http://2.bp.blogspot.com/8N_hcDjoshuna9ycipxVTy7x8C-k68zRhxfGLZ5ipjsyjPEb6iQtyB963ECvYAtpz4K8UEiwJPVm=s0");
-        
-        lstImages.push("http://2.bp.blogspot.com/FUswFplL_Gs0XJd92GQH6LAYAFWPTsL5hlgbGSs_3D-KXJecH3ddTtpgnn2jmQCxq2Pwegjxzpr-=s0");
-        
-        lstImages.push("http://2.bp.blogspot.com/_ncaKak2S1NljpVQsigbrmciEe6MPZacZvJXUWJSQIsJnO5atkkDVc4em1ZcHBvRJ6OhWv597zNL=s0");
-        
-        lstImages.push("http://2.bp.blogspot.com/VlYIjMLW5VFyGN4rSh8WhfOv6it-GBDsjYtRyPGknhzPVjryFTSoAXpbJKrUWGyLI5qfP7im2caB=s0");
-        
-        lstImages.push("http://2.bp.blogspot.com/Q8TYEYiU9iQk6h8Hlf_nXb7Zr2i-Cbnq8-NnxuTvGXRD1raX3A5JXhH5h5j8Th7kUMtSwjXNjKdH=s0");
-        
-        lstImages.push("http://2.bp.blogspot.com/6V6UQRIOeOF1sAD5IaSKQP_koJTrsd8r1PsJu0lr3CHJ1tTXHK-Ni5DGTGO1bIak8GATO3GiKIG1=s0");
-        
-        lstImages.push("http://2.bp.blogspot.com/aneh_NmAJsN4K0amUkUBQtumby-5dWYAFW7IBnUbpb9hE0R5IUO_YgZv_rTwXv_-znrFN-X4gX3s=s0");
-        
-        lstImages.push("http://2.bp.blogspot.com/_ViDAur99zePufv77s5cgXDPGxUlvdi6u9eZxRfD8KOyxhAHMKHvrYKHrZwU7Na0D0z9c107_AQ2=s0");
-        
-        lstImages.push("http://2.bp.blogspot.com/kCFwA9VvDyOXlX6pL9UClo2FDm62aXTwK6LZLC7d9sgV976afBaqbBoYmjBCcQlaKBb-XLbxgrGk=s0");
-        
-        lstImages.push("http://2.bp.blogspot.com/SVvG4ICXgKamfOYbTUMGpDJJJYNDPLqyDDWQ5J02pC3lLy1GiAAFjBz-cGgIyuv93zXMZPKG_igT=s0");
-        
-        lstImages.push("http://2.bp.blogspot.com/w6qXI8QiM6DDv3JR1HikGWruQLoQC7om_pcef-dZfN_Nw_5wSTsvzvmlVQ3vwAyI7cr7gMZXbR43=s0");
-        
-        lstImages.push("http://2.bp.blogspot.com/dhiRAHGfMwy4dlSyByFCsFR4CRwMqqpKo3mrE8EzFw8sVK5UncaPtH7nNnzeeRiD5Q6pFgdpaXJu=s0");
-        
-        lstImages.push("http://2.bp.blogspot.com/KGkVYc5G6whmd2GduppdJ1I-QlhxjLWVOQYVbONL7GcEa_kzey-kGo3dWB1ENLpwxEuTZ4dvGKcI=s0");
-        
-        lstImages.push("http://2.bp.blogspot.com/PXYq3E9hJCizlkZKGjvgrKXAw9FK3p70XuID_NC78LlVxbicVn7hXGCyvId4hVkdVrJrY4Cv7gmS=s0");
-        
-        lstImages.push("http://2.bp.blogspot.com/l6mQATh3K0mJznqKed0KnHLvl4nLsyUOq5x0uJahDbSVV5mcXzAbj4y-iw86Zk2u9Z6jZMRbP4vc=s0");
-        
-        lstImages.push("http://2.bp.blogspot.com/aEsFbrUwkfAp3QcoMi_UucEVfFu_71v6fX3UZv-Ekbg6Q5jJrLpEGUTq93YWSjbEbl5n1QoosCbP=s0");
-        
-        lstImages.push("http://2.bp.blogspot.com/yO7EdZZvebUQEmUQNZANsXo0RFnC9bctGbQ-eOdrsWu9kwvb_pFsJ9jt_j4g7F_TAF8NdSWMm9xl=s0");
-        
-        lstImages.push("http://2.bp.blogspot.com/Tte7qDKZNl7Gpn6NlvdCo8Q1qkLFIOy2XrSgJ47NfmJXLqu1IkaYFPbWo8oCNsqEniNmejsBE7ON=s0");
-        
-        lstImages.push("http://2.bp.blogspot.com/cxAbcqu8AnAjYECONwtgaxotpyQcNqtPzXCbb807cOOQUwALDQSR1-tEX2nFeeSUDRxdL0sgkeKc=s0");
-        
-        lstImages.push("http://2.bp.blogspot.com/ViFS6xUgiDlxZIXZvJlvldHulMV6ofFDWiq9q07FgW_TW8uij4d1TUbG5yzT_nfGYbls4HS9JnSP=s0");
-        
-        lstImages.push("http://2.bp.blogspot.com/REinCdAFFsCtWb2pNd__MLcDjxdZ4TBnrVbXjSRbdl696Cz1sJMJLeEC0dLZ6zHiBoHKnefBClix=s0");
-        
-        var currImage = 0;
-        var start = location.href.indexOf('#');
-        if (start > -1)
-        {
-            start++;
-            currImage = location.href.substr(start, location.href.length - start) - 1;                
-            if (currImage == -1)
-                currImage = 0;
-            if (!isNumber(currImage))
-                currImage = 0;
-
-            SetImage();
-        }
-
-        PreloadImage();
-
-        $("#aCurr").focus().keyup(function(event){
-            if (event.keyCode == '37')                
-                Previous();
-            else if (event.keyCode == '39')
-                Next();                
-        });
-
-        $('#imgCurrent').live("click", function () {
-            Next();
-        });
-
-        $('#btnNext').click(function () {
-            Next();
-        });
-
-        $('#btnPrevious').click(function () {
-            Previous();
-        });
-
-        $('#selectPage').change(function () {
-            currImage = parseInt($(this).val());
-            SetImage();
-            PreloadImage();
-            if ($('#divMsg').css('display') == 'block') {
-                $('#divMsg').css('display', 'none');
-            }
-        });
-
-        $('#selectEpisode').change(function() {
-            location.href = 'http://readcomiconline.to/Comic/Spider-Man-Wolverine/' + $(this).val();
-        });
-
-        $('#selectReadType').change(function() {
-            window.location = 'http://readcomiconline.to/Comic/Spider-Man-Wolverine/Issue-1?id=81184&readType=' + $(this).val();
-        });
-
-        $('#selectQuality').change(function() {
-            window.location = 'http://readcomiconline.to/Comic/Spider-Man-Wolverine/Issue-1?id=81184&quality=' + $(this).val();
-        });
-
-        function Next() {
-            if (lstImages.length > currImage + 1) {
-                currImage++;
-                SetImage();
-                PreloadImage();
-                if ($('#divMsg').css('display') == 'block') {
-                    $('#divMsg').css('display', 'none');
-                }
-            }
-            else {
-                var nextOption = $('#selectEpisode').find('option:selected').next();
-                if (nextOption.length) {
-                    location.href = 'http://readcomiconline.to/Comic/Spider-Man-Wolverine/' + nextOption.val();
-                }
-                else {
-                    $('#divImage').empty();
-                    $('#divMsg').css('display', 'block');
-                }
-            }
-        }
-
-        function Previous() {
-            if (currImage > 0) {
-                currImage--;
-                SetImage();
-                if ($('#divMsg').css('display') == 'block') {
-                    $('#divMsg').css('display', 'none');
-                }
-            }
-            else {
-                var previousOption = $('#selectEpisode').find('option:selected').prev();
-                if (previousOption.length) {
-                    location.href = 'http://readcomiconline.to/Comic/Spider-Man-Wolverine/' + previousOption.val();
-                }
-                else {
-                    alert('This is first Issue!');
-                }
-            }                
-        }
-
-        function SetImage() {
-            location.href = "/Comic/Spider-Man-Wolverine/Issue-2?id=81184" + "#" + (currImage + 1);
-            $('#imgCurrent').attr('src', lstImages[currImage]);
-            $('#selectPage').val(currImage);
-            document.getElementById('aCurr').scrollIntoView(true);
-            $("#aCurr").focus();
-        }
-
-        function PreloadImage()
-        {
-            var preImage;
-            if (lstImages.length > currImage + 1)                
-                preImage = $('<img />').attr('src', lstImages[currImage + 1]);
-            if (lstImages.length > currImage + 2)                
-                preImage = $('<img />').attr('src', lstImages[currImage + 2]);
-        }
-
-        function AddCloseButton(id) {
-            var elem = $('#' + id);
-            if (elem.position() != null) {
-                var top = elem.position().top + elem.height();
-                var left = elem.position().left;
-                elem.after('<div class="divCloseBut" style="position:absolute; left:' + left + 'px; top: ' + top + 'px"><a href="#" onclick="$(\'#' + id + '\').remove();$(this).remove(); InitCloseButton(); return false;">Hide</a></div>');
-            }
-        }
-
-        function InitCloseButton() {
-            $('.divCloseBut').remove();
-            AddCloseButton('adsIfrme6');
-            AddCloseButton('adsIfrme8');
-        }
-
-        InitCloseButton();
-    </script>
-    <script type="text/javascript" src="/Scripts/kissreader.js?v=1"></script>
-    
-<div class="clear2">
-</div>
-<div class="clear2">
-</div>
-<div style="text-align: center;">
-    <div style="display: inline; width: 90px">
-        <iframe src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com%2Freadcomiconlineweb&amp;send=false&amp;layout=button_count&amp;width=100&amp;show_faces=false&amp;action=like&amp;colorscheme=dark&amp;font&amp;height=21"
-            scrolling="no" frameborder="0" style="border: none; overflow: hidden; width: 90px;
-            height: 21px; vertical-align: middle" allowtransparency="true"></iframe>
-    </div>
-    <div style="display: inline;">
-        <span class='st_fblike_hcount' displaytext='Facebook Like'></span><span class='st_facebook_hcount'
-            displaytext='Facebook'></span><span class='st_twitter_hcount' displaytext='Tweet'>
-        </span><span class='st_googleplus_hcount' displaytext='Google +'></span><span class='st_sharethis_hcount'
-            displaytext='ShareThis'></span>
-        <script type="text/javascript">            var switchTo5x = true;</script>
-        <script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
-        <script type="text/javascript">            stLight.options({ publisher: "39da8212-8bbb-4097-a85f-6cedb7bc9464" }); </script>
-    </div>
-    <div class="clear2">
-        &nbsp;
-    </div>
-        <div class="clear2">
-        &nbsp;
-    </div>
-    <div style="font-size: 14px; font-weight: bold;">
-        Please do NOT spoil content of NEXT issues <a href="http://readcomiconline.to/Message/ReportError"
-            target="_blank" rel="nofollow">[Report spoiler]</a>. Do not spam or link to
-        other comic sites.
-    </div>
-    <div class="clear2">
-        &nbsp;
-    </div>
-</div>
-<div class="clear2">
-    &nbsp;
-</div>
-<div style="width: 820px; text-align: center; margin: auto; background-color: #1f1f1f"
-    id="divComments">
-    <div style="width: 780px; display: inline-block">
-        <div id="disqus_thread">
-            Loading...
-        </div>        
-    </div>
-    <script type="text/javascript">
-        var disqus_shortname = 'readcomiconline'; // required: replace example with your forum shortname
-        var disqus_url = 'http://readcomiconline.to/Comic/Spider-Man-Wolverine/Issue-1?id=81184';
-
-        /* * * DON'T EDIT BELOW THIS LINE * * */
-        (function () {
-            var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-            dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
-            (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-        })();        
-    </script>
-</div>
-<div class="clear2">
-    &nbsp;</div>
-<div style="text-align: center;">
-    <a href="#">[ Back to top ]</a>
-</div>
-
-        <!-- end div container -->
-        <div class="clear">
-            &nbsp;</div>
-        <div class="clear">
-            &nbsp;</div>
-        <div class="clear">
-            &nbsp;</div>
-        
-    </div>
-    
-    <div id="footer">
-        <div id="footcontainer" style="position: relative">
-            <p>
-                From 2015 <a href="http://readcomiconline.to">ReadComicOnline.to</a>. Copyrights and trademarks
-                for the comic, and other promotional materials are held by their respective owners
-                and their use is allowed under the fair use clause of the Copyright Law.
-                
-
-<a href="/Message/PrivacyPolicy">Privacy Policy</a>&nbsp;|&nbsp;<a href="/Message/DMCA">DMCA</a>&nbsp;|&nbsp;<a target="_blank" href="https://www.facebook.com/messages/readcomiconlineweb">Contact us</a>&nbsp;&nbsp;</p>
-        </div>
-    </div>
-    <script type="text/javascript">
-        $('#footer').css('top', $(document).height() - $('#containerRoot').height());
-    </script>
-</body>
-</html>
-
-
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
-<head><title>
-	
-    Spider-Man & Wolverine
-    Issue #1
-    - Read
-    Spider-Man & Wolverine
-    Issue #1
-    comic online in high quality
-
-</title><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><meta http-equiv="X-UA-Compatible" content="IE=edge" /><meta property="fb:admins" content="100006233868825" /><meta property="fb:app_id" content="130397647116314" />
-<script type="text/javascript" src="/Scripts/jquery17.min.js"></script>
-<!-- CSS -->
-<link href="http://readcomiconline.to/Content/css/tpl_style.css?v=14" rel="stylesheet" type="text/css" />
-<link href="http://readcomiconline.to/Content/css/upload-progress.css" rel="stylesheet" type="text/css">
-<link rel="shortcut icon" href="http://readcomiconline.to/Content/images/favicon.ico" type="image/x-icon" />
-<!--[if IE 6]><link href="http://readcomiconline.to/Content/css/tpl_ie_6.css"  rel="stylesheet" type="text/css" media="screen" /><![endif]-->
-<!--[if IE 7]><link rel="stylesheet" type="text/css" href="http://readcomiconline.to/Content/css/tpl_ie_7.css" /><![endif]-->
-<!--[if IE 8]><link rel="stylesheet" type="text/css" href="http://readcomiconline.to/Content/css/tpl_ie_7.css" /><![endif]-->
-
-    
-    <meta name="description" content="Read Spider-Man &amp; Wolverine Issue #1 comic online - Spider-Man &amp; Wolverine Issue #1" />
-    <meta name="keywords" content="read Spider-Man &amp; Wolverine Issue #1 comic online, download Spider-Man &amp; Wolverine Issue #1 , Spider-Man & Wolverine Issue #1" />
-    <link rel="image_src" href="http://readcomiconline.to/Uploads/Etc/8-9-2016/2033551534215.jpg" />
-
-    <script>
-        (function (i, s, o, g, r, a, m) {
-            i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
-                (i[r].q = i[r].q || []).push(arguments)
-            }, i[r].l = 1 * new Date(); a = s.createElement(o),
-      m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
-        })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
-
-        ga('create', 'UA-63783416-4', 'auto');
-        ga('send', 'pageview');
-    </script>
-</head>
-<body>
-    
-    <div id="containerRoot">
-        <div id="head">
-            <h3>
-                
-<div style="position: relative; text-align: right; margin: -40px 46px 20px 0px; font: bold 13px Arial;">
-    
-    <div id="topHolderBox" style="width: 230px; height: 30px;">
-        <img src="http://readcomiconline.to/Content/images/user-small.png" style="vertical-align: middle; margin-bottom: 5px">
-        Please <a class="red" href="http://readcomiconline.to/Login">login</a>
-        or <a class="red" href="http://readcomiconline.to/Register">register</a>
-    </div>
-    
-</div>
-
-                <div id="search" style="position: relative">
-                    <form id="formSearch" method="post">
-                    <p>
-                        <input style="width: 250px" id="keyword" name="keyword" value="" class="text" autocomplete="off" />
-                        <input id="imgSearch" type="image" src="http://readcomiconline.to/Content/images/search.png"
-                            class="button" onclick="return false;" />
-                    </p>
-                    <div id="result_box" style="display: none; left: 57px; margin-top: -3px">
-                    </div>
-                    <div style="float: left; width: 240px; text-align: left; margin-left: 58px;">
-                        <div style="float: left; width: 90px">
-                            <iframe src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com%2Freadcomiconlineweb&amp;send=false&amp;layout=button_count&amp;width=100&amp;show_faces=false&amp;action=like&amp;colorscheme=dark&amp;font&amp;height=21"
-                                scrolling="no" frameborder="0" style="border: none; overflow: hidden; width: 100px;
-                                height: 21px;" allowtransparency="true"></iframe>
-                        </div>
-                        <div style="float: left; width: 85px">
-                            <!-- Place this tag where you want the +1 button to render. -->
-                            <div class="g-plusone" data-size="medium" data-href="http://readcomiconline.to">
-                            </div>
-                            <!-- Place this tag after the last +1 button tag. -->
-                            <script type="text/javascript">
-                                (function() {
-                                    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
-                                    po.src = 'https://apis.google.com/js/plusone.js';
-                                    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
-                                })();
-                            </script>
-                        </div>
-                        <div style="float: left; width: 65px">
-                            <a href="https://twitter.com/ReadComicOnline" class="twitter-follow-button" data-show-screen-name="false" data-lang="en" data-show-count="false">&nbsp;</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-                        </div>
-                    </div>
-                    <div style="margin: 10px 48px 10px 0">
-                        <a href="http://readcomiconline.to/AdvanceSearch">
-                            <img src="http://readcomiconline.to/Content/images/read.png"
-                                width="16px" border="0" style="vertical-align: middle" />&nbsp;&nbsp;Adv Search</a>
-                    </div>
-                    </form>
-                </div>
-                <script type="text/javascript">
-                    $('#imgSearch').click(function () {
-                        Submit();
-                    });
-
-                    var delay = (function () {
-                        var timer = 0;
-                        return function (callback, ms) {
-                            clearTimeout(timer);
-                            timer = setTimeout(callback, ms);
-                        };
-                    })();
-
-                    $('#keyword').keyup(function () {
-                        delay(function () {
-                            Suggest();
-                        }, 500);
-                    });
-
-                    $('#selectSearch').change(function () {
-                        Suggest();
-                    });
-
-                    $("#selectSearch option").each(function () {
-                        var url = location.href;
-                        if (url.indexOf($(this).attr('value')) != -1)
-                            $(this).attr("selected", "selected");
-                    });
-
-                    function Submit() {
-                        if ($.trim($('#keyword').val()).length < 2) {
-                            $('#keyword').blur();
-                            alert('Keyword must be more than one character!');
-                        }
-                        else {
-                            $("#formSearch").attr('action', "/Search/Comic");
-                            $("#formSearch").submit();
-                        }
-                    }
-
-
-                    function Suggest() {
-                        var keyword = $.trim($('#keyword').val());
-                        if (keyword != "") {
-                            $('#result_box').html("<span id='loader'></span>");
-                            $('#result_box').css('display', 'block');
-                            $.ajax(
-                            {
-                                type: "POST",
-                                url: "/Search/SearchSuggest",
-                                data: "type=Comic" + '&keyword=' + encodeURIComponent(keyword),
-                                success: function (message) {
-                                    if (message != "") {
-                                        $('#result_box').html(message);
-                                    }
-                                    else {
-                                        //$('#result_box').html('');
-                                        //$('#result_box').css('display', 'none');
-                                        $('#result_box').html('<a href="#" onclick="return false;">Press Enter to search...</a>');
-                                    }
-                                }
-                            });
-                        }
-                        else {
-                            $('#result_box').html('');
-                            $('#result_box').css('display', 'none');
-                        }
-                    }
-
-                    $(document).click(function (e) {
-                        var container = $("#search");                        
-                        if (container.has(e.target).length == 0) {
-                            $("#result_box").hide();
-                        }
-                    });
-                </script>
-            </h3>
-            <h1>
-                <a href="http://readcomiconline.to" title="ReadComicOnline - High quality comic online"
-                    class="logo">ReadComicOnline.to</a></h1>
-        </div>
-        <!-- end div head -->
-        <div class="clear">
-        </div>
-        <div id="headnav">
-            
-<div id="navbar">
-    <div id="navcontainer">
-        <ul>
-            <li id="liHome"><a href="http://readcomiconline.to">Home</a></li>
-            <li id="liDS"><a href="http://readcomiconline.to/ComicList">
-                Comic list</a></li>
-            <li id="li1"><a target="_blank" href="http://kissmanga.com/">Manga list</a></li>
-            <li id="liReportError"><a href="/Message/ReportError">Report Error</a></li>
-            <li id="liRequest"><a rel="nofollow" target="_blank" href="https://www.facebook.com/messages/readcomiconlineweb">
-                Request Comic</a></li>
-            
-            <li id="liCommunity"><a rel="nofollow" target="_blank" href="http://forum.kissanime.com">Forum</a></li>
-            <li id="li3"><a target="_blank" rel="nofollow" href="http://kissanime.to/">Watch anime</a></li>
-            <li id="li2"><a target="_blank" rel="nofollow" href="http://kisscartoon.me/">Watch cartoon</a></li>
-        </ul>
-    </div>
-</div>
-<script type="text/javascript">
-    var path = 'Comic';
-    if (path == 'Home')
-        $('#liHome a').attr('id', 'currentTab');
-    else if (path == 'Comic' || path == 'Genre' || path == 'Group')
-        $('#liDS a').attr('id', 'currentTab');
-    else if (document.URL.indexOf('GoPremium') >= 0)
-        $('#liGoPremium a').attr('id', 'currentTab');
-    else if (document.URL.indexOf('FreeDownload') >= 0)
-        $('#liDS a').attr('id', 'currentTab');
-    else if (document.URL.indexOf('FAQ') >= 0)
-        $('#liFAQ a').attr('id', 'currentTab');
-    else if (path == 'Error')
-        $('#liReport a').attr('id', 'currentTab');
-    else
-        $('#navcontainer a[href*="' + path + '"]').attr('id', 'currentTab');
-</script>
-
-    <div id="navsubbar">
-        <p>
-            <a href="http://readcomiconline.to/Comic/Spider-Man-Wolverine">
-                Comic
-                Spider-Man & Wolverine
-                information</a>
-        </p>
-    </div>
-
-        </div>
-        <!-- end div headnav -->
-        
-    
-    <div style="width: 95%; text-align: center; margin: auto">
-        <!-- Episodes and pages -->
-        <div style="margin: auto; width: 885px; padding-top: 10px">
-            <label class="lbl" style="float: left;">Quality</label>
-            <select id="selectQuality" style="float: left; min-width: 93px">
-                <option value="hq" selected>High quality</option>
-                <option value="lq" >Low quality</option>
-            </select>
-            <label class="lbl" style="float: left;">Reading type</label>
-            <select id="selectReadType" style="float: left; min-width: 93px">
-                <option value="0" selected>One page</option>
-                <option value="1">All pages</option>
-            </select>
-            <label class="lbl" style="float: left;">Issue</label>
-            <select id="selectEpisode" style="float: left; width: 250px">
-                
-                <option value="Issue-1?id=81184" selected>
-                    Issue #1
-                </option>
-                
-                <option value="Issue-2?id=81185" >
-                    Issue #2
-                </option>
-                
-                <option value="Issue-3?id=81186" >
-                    Issue #3
-                </option>
-                
-                <option value="Issue-4?id=81187" >
-                    Issue #4
-                </option>
-                
-            </select>
-            <label class="lbl" style="float: left;">Page</label>
-            <select id="selectPage" style="float: left; width: 50px">
-                
-                <option value="0">1</option>
-                
-                <option value="1">2</option>
-                
-                <option value="2">3</option>
-                
-                <option value="3">4</option>
-                
-                <option value="4">5</option>
-                
-                <option value="5">6</option>
-                
-                <option value="6">7</option>
-                
-                <option value="7">8</option>
-                
-                <option value="8">9</option>
-                
-                <option value="9">10</option>
-                
-                <option value="10">11</option>
-                
-                <option value="11">12</option>
-                
-                <option value="12">13</option>
-                
-                <option value="13">14</option>
-                
-                <option value="14">15</option>
-                
-                <option value="15">16</option>
-                
-                <option value="16">17</option>
-                
-                <option value="17">18</option>
-                
-                <option value="18">19</option>
-                
-                <option value="19">20</option>
-                
-                <option value="20">21</option>
-                
-                <option value="21">22</option>
-                
-                <option value="22">23</option>
-                
-                <option value="23">24</option>
-                
-                <option value="24">25</option>
-                
-            </select>
-            <div style="float: left; padding-left: 20px">
-                <img id='btnPrevious' src="http://readcomiconline.to/Content/images/previous.png" title="Previous page" style="cursor: pointer;" />&nbsp;&nbsp;
-                <img id='btnNext' src="http://readcomiconline.to/Content/images/next.png" title="Next page" style="cursor: pointer" />
-            </div>
-        </div>
-        <!-- End Episodes and pages -->
-        <div class="clear">&nbsp;</div>
-        <!-- Ads -->
-        <div style="height:1px">
-        <a href="javascript:void(0)" id="aCurr">&nbsp;</a>
-        </div>
-        
-<div class="clear2"></div>
-   
-<iframe sandbox="allow-same-origin allow-scripts allow-popups allow-forms" id="adsIfrme6" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" src="http://readcomiconline.to/Ads/smaato300read1.aspx" width="300px" height="250px">
-</iframe>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<iframe sandbox="allow-same-origin allow-scripts allow-popups allow-forms" id="adsIfrme8" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" src="http://readcomiconline.to/Ads/smaato300read2.aspx" width="300px" height="250px">
-</iframe>
-
-<div class="clear2">&nbsp;</div>
-<div class="clear2">&nbsp;</div>
-
-        <!-- Read -->
-        <div style="clear: both">&nbsp;
-        </div>
-        <script type="text/javascript">
-            var requestFix = false;
-            function onLoadImg(ele) {
-                if (!requestFix) {
-                    var srcImage = $(ele).attr('src');
-                    if ($(ele).width() == 200 && $(ele).height() == 200) {
-                        $.ajax({
-                            url: srcImage,
-                            type: 'GET',
-                            complete: function (xhr, textStatus) {
-                                if (xhr.status == 404) {
-                                    requestFix = true;
-                                    $.ajax({
-                                        type: "POST",
-                                        url: "/External/RPB",
-                                        success: function (message) {
-                                            if (message == "0") {
-                                                alert("This issue is broken, we're working to fix it.");
-                                            } else {
-                                                //alert("There is network problem, please try to refresh browser.");
-                                            }
-                                        }
-                                    });
-                                }
-                            }
-                        });
-                    }
-                }
-            }
-        </script>
-        <div id="divImage" style="background: url('http://readcomiconline.to/Content/images/loading.gif') no-repeat 50% 50%">
-            <br />
-            <img onload="onLoadImg(this);" style="cursor: pointer" id="imgCurrent" src="http://2.bp.blogspot.com/6K2je27Pl5hwK9QpvArV0AWHqvLqufgPU1uSOl3HrYV_DIn-_Kg-AKOVfs0f6YK5aNXC3x4aIJ5g=s0" />
-        </div>
-        <div id="divMsg" class="banner" style="margin: auto; width: 500px; height: 120px;
-            margin-top: 20px; display: none">
-            <div style="float: left; width: 390px">
-                <p style="font-size: 14px; padding: 16px 0 0 6px">
-                    No more issues today :(. Please come back later ^^!
-                </p>
-            </div>
-            <div style="float: right; width: 110px">
-                <img src="http://readcomiconline.to/Content/images/error.png" style="border: 0px" />
-            </div>
-        </div>
-        <div class="btnZoom-container">
-            <a href="javascript:void(0)" class="zoom-header"></a>
-            <a href="javascript:void(0)" class="btnZoom zoomIn" style="margin-right: 3px;">+</a>
-            <a href="javascript:void(0)" class="btnZoom zoomOut">-</a>
-        </div>
-        <div class="clear">&nbsp;</div>
-        
-<iframe id="adsIfrme7" frameborder="0" scrolling="no" src="http://readcomiconline.to/ads/mgid.aspx" width="820px" height="297px">
-</iframe>  
-<div class="clear2">&nbsp;</div>
-<iframe sandbox="allow-same-origin allow-scripts allow-popups allow-forms" id="adsIfrme10" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" src="http://readcomiconline.to/Ads/smaato728b.aspx" width="728px" height="90px">
-</iframe>
-
-        <div class="clear">&nbsp;</div>
-        <div class="clear2">&nbsp;</div>
-        <div>
-            
-<img src="/Content/images/user-small.png" style="vertical-align: middle; margin-bottom: 5px">
-Please
-<a href="/Login?redirect=%2fComic%2fSpider-Man-Wolverine%2fIssue-3%3fid%3d81184">Login</a> or
-<a href="/Register">Register</a>
-to use <b>Bookmark</b> feature
-
-        </div>
-        <div class="clear2">&nbsp;</div>
-        <div>
-            Click on image go to next page, or use the arrow keys <b><- -></b> go to next/prev page.<br />
-            <b>You can choose reading type 'One page'/'All pages' on top.</b>
-        </div>
-        <div class="clear2">&nbsp;</div>
-        <div class="clear2">&nbsp;</div>
-    </div>
-    <script type="text/javascript">
-        function isNumber(n) {
-            return !isNaN(parseFloat(n)) && isFinite(n);
-        }
-
-        var lstImages = new Array();
-        
-        lstImages.push("http://2.bp.blogspot.com/6K2je27Pl5hwK9QpvArV0AWHqvLqufgPU1uSOl3HrYV_DIn-_Kg-AKOVfs0f6YK5aNXC3x4aIJ5g=s0");
-        
-        lstImages.push("http://2.bp.blogspot.com/iInSzpAZF8g9UvLkrXsXTEPpSo2F3etmIwABYBdH1_GD-mho1lSSMg0s9oX-RJ-_8I8v5EoVsRZ1=s0");
-        
-        lstImages.push("http://2.bp.blogspot.com/kPy0HrS04I_sBpO_6xdJMnW9oJEM1nVGEsx7GcGEy-xLylL0vrQIAwZbnbc2GJTZDwBWtgP0KQjl=s0");
-        
-        lstImages.push("http://2.bp.blogspot.com/zC6nvTohZAYnTLkLYAg5AT4jvBF1Y7ncXPTXffSWOnHDmiFJvUZo7eyfpaI2V4hxRfJtJvjJNOaH=s0");
-        
-        lstImages.push("http://2.bp.blogspot.com/8N_hcDjoshuna9ycipxVTy7x8C-k68zRhxfGLZ5ipjsyjPEb6iQtyB963ECvYAtpz4K8UEiwJPVm=s0");
-        
-        lstImages.push("http://2.bp.blogspot.com/FUswFplL_Gs0XJd92GQH6LAYAFWPTsL5hlgbGSs_3D-KXJecH3ddTtpgnn2jmQCxq2Pwegjxzpr-=s0");
-        
-        lstImages.push("http://2.bp.blogspot.com/_ncaKak2S1NljpVQsigbrmciEe6MPZacZvJXUWJSQIsJnO5atkkDVc4em1ZcHBvRJ6OhWv597zNL=s0");
-        
-        lstImages.push("http://2.bp.blogspot.com/VlYIjMLW5VFyGN4rSh8WhfOv6it-GBDsjYtRyPGknhzPVjryFTSoAXpbJKrUWGyLI5qfP7im2caB=s0");
-        
-        lstImages.push("http://2.bp.blogspot.com/Q8TYEYiU9iQk6h8Hlf_nXb7Zr2i-Cbnq8-NnxuTvGXRD1raX3A5JXhH5h5j8Th7kUMtSwjXNjKdH=s0");
-        
-        lstImages.push("http://2.bp.blogspot.com/6V6UQRIOeOF1sAD5IaSKQP_koJTrsd8r1PsJu0lr3CHJ1tTXHK-Ni5DGTGO1bIak8GATO3GiKIG1=s0");
-        
-        lstImages.push("http://2.bp.blogspot.com/aneh_NmAJsN4K0amUkUBQtumby-5dWYAFW7IBnUbpb9hE0R5IUO_YgZv_rTwXv_-znrFN-X4gX3s=s0");
-        
-        lstImages.push("http://2.bp.blogspot.com/_ViDAur99zePufv77s5cgXDPGxUlvdi6u9eZxRfD8KOyxhAHMKHvrYKHrZwU7Na0D0z9c107_AQ2=s0");
-        
-        lstImages.push("http://2.bp.blogspot.com/kCFwA9VvDyOXlX6pL9UClo2FDm62aXTwK6LZLC7d9sgV976afBaqbBoYmjBCcQlaKBb-XLbxgrGk=s0");
-        
-        lstImages.push("http://2.bp.blogspot.com/SVvG4ICXgKamfOYbTUMGpDJJJYNDPLqyDDWQ5J02pC3lLy1GiAAFjBz-cGgIyuv93zXMZPKG_igT=s0");
-        
-        lstImages.push("http://2.bp.blogspot.com/w6qXI8QiM6DDv3JR1HikGWruQLoQC7om_pcef-dZfN_Nw_5wSTsvzvmlVQ3vwAyI7cr7gMZXbR43=s0");
-        
-        lstImages.push("http://2.bp.blogspot.com/dhiRAHGfMwy4dlSyByFCsFR4CRwMqqpKo3mrE8EzFw8sVK5UncaPtH7nNnzeeRiD5Q6pFgdpaXJu=s0");
-        
-        lstImages.push("http://2.bp.blogspot.com/KGkVYc5G6whmd2GduppdJ1I-QlhxjLWVOQYVbONL7GcEa_kzey-kGo3dWB1ENLpwxEuTZ4dvGKcI=s0");
-        
-        lstImages.push("http://2.bp.blogspot.com/PXYq3E9hJCizlkZKGjvgrKXAw9FK3p70XuID_NC78LlVxbicVn7hXGCyvId4hVkdVrJrY4Cv7gmS=s0");
-        
-        lstImages.push("http://2.bp.blogspot.com/l6mQATh3K0mJznqKed0KnHLvl4nLsyUOq5x0uJahDbSVV5mcXzAbj4y-iw86Zk2u9Z6jZMRbP4vc=s0");
-        
-        lstImages.push("http://2.bp.blogspot.com/aEsFbrUwkfAp3QcoMi_UucEVfFu_71v6fX3UZv-Ekbg6Q5jJrLpEGUTq93YWSjbEbl5n1QoosCbP=s0");
-        
-        lstImages.push("http://2.bp.blogspot.com/yO7EdZZvebUQEmUQNZANsXo0RFnC9bctGbQ-eOdrsWu9kwvb_pFsJ9jt_j4g7F_TAF8NdSWMm9xl=s0");
-        
-        lstImages.push("http://2.bp.blogspot.com/Tte7qDKZNl7Gpn6NlvdCo8Q1qkLFIOy2XrSgJ47NfmJXLqu1IkaYFPbWo8oCNsqEniNmejsBE7ON=s0");
-        
-        lstImages.push("http://2.bp.blogspot.com/cxAbcqu8AnAjYECONwtgaxotpyQcNqtPzXCbb807cOOQUwALDQSR1-tEX2nFeeSUDRxdL0sgkeKc=s0");
-        
-        lstImages.push("http://2.bp.blogspot.com/ViFS6xUgiDlxZIXZvJlvldHulMV6ofFDWiq9q07FgW_TW8uij4d1TUbG5yzT_nfGYbls4HS9JnSP=s0");
-        
-        lstImages.push("http://2.bp.blogspot.com/REinCdAFFsCtWb2pNd__MLcDjxdZ4TBnrVbXjSRbdl696Cz1sJMJLeEC0dLZ6zHiBoHKnefBClix=s0");
-        
-        var currImage = 0;
-        var start = location.href.indexOf('#');
-        if (start > -1)
-        {
-            start++;
-            currImage = location.href.substr(start, location.href.length - start) - 1;                
-            if (currImage == -1)
-                currImage = 0;
-            if (!isNumber(currImage))
-                currImage = 0;
-
-            SetImage();
-        }
-
-        PreloadImage();
-
-        $("#aCurr").focus().keyup(function(event){
-            if (event.keyCode == '37')                
-                Previous();
-            else if (event.keyCode == '39')
-                Next();                
-        });
-
-        $('#imgCurrent').live("click", function () {
-            Next();
-        });
-
-        $('#btnNext').click(function () {
-            Next();
-        });
-
-        $('#btnPrevious').click(function () {
-            Previous();
-        });
-
-        $('#selectPage').change(function () {
-            currImage = parseInt($(this).val());
-            SetImage();
-            PreloadImage();
-            if ($('#divMsg').css('display') == 'block') {
-                $('#divMsg').css('display', 'none');
-            }
-        });
-
-        $('#selectEpisode').change(function() {
-            location.href = 'http://readcomiconline.to/Comic/Spider-Man-Wolverine/' + $(this).val();
-        });
-
-        $('#selectReadType').change(function() {
-            window.location = 'http://readcomiconline.to/Comic/Spider-Man-Wolverine/Issue-1?id=81184&readType=' + $(this).val();
-        });
-
-        $('#selectQuality').change(function() {
-            window.location = 'http://readcomiconline.to/Comic/Spider-Man-Wolverine/Issue-1?id=81184&quality=' + $(this).val();
-        });
-
-        function Next() {
-            if (lstImages.length > currImage + 1) {
-                currImage++;
-                SetImage();
-                PreloadImage();
-                if ($('#divMsg').css('display') == 'block') {
-                    $('#divMsg').css('display', 'none');
-                }
-            }
-            else {
-                var nextOption = $('#selectEpisode').find('option:selected').next();
-                if (nextOption.length) {
-                    location.href = 'http://readcomiconline.to/Comic/Spider-Man-Wolverine/' + nextOption.val();
-                }
-                else {
-                    $('#divImage').empty();
-                    $('#divMsg').css('display', 'block');
-                }
-            }
-        }
-
-        function Previous() {
-            if (currImage > 0) {
-                currImage--;
-                SetImage();
-                if ($('#divMsg').css('display') == 'block') {
-                    $('#divMsg').css('display', 'none');
-                }
-            }
-            else {
-                var previousOption = $('#selectEpisode').find('option:selected').prev();
-                if (previousOption.length) {
-                    location.href = 'http://readcomiconline.to/Comic/Spider-Man-Wolverine/' + previousOption.val();
-                }
-                else {
-                    alert('This is first Issue!');
-                }
-            }                
-        }
-
-        function SetImage() {
-            location.href = "/Comic/Spider-Man-Wolverine/Issue-3?id=81184" + "#" + (currImage + 1);
-            $('#imgCurrent').attr('src', lstImages[currImage]);
-            $('#selectPage').val(currImage);
-            document.getElementById('aCurr').scrollIntoView(true);
-            $("#aCurr").focus();
-        }
-
-        function PreloadImage()
-        {
-            var preImage;
-            if (lstImages.length > currImage + 1)                
-                preImage = $('<img />').attr('src', lstImages[currImage + 1]);
-            if (lstImages.length > currImage + 2)                
-                preImage = $('<img />').attr('src', lstImages[currImage + 2]);
-        }
-
-        function AddCloseButton(id) {
-            var elem = $('#' + id);
-            if (elem.position() != null) {
-                var top = elem.position().top + elem.height();
-                var left = elem.position().left;
-                elem.after('<div class="divCloseBut" style="position:absolute; left:' + left + 'px; top: ' + top + 'px"><a href="#" onclick="$(\'#' + id + '\').remove();$(this).remove(); InitCloseButton(); return false;">Hide</a></div>');
-            }
-        }
-
-        function InitCloseButton() {
-            $('.divCloseBut').remove();
-            AddCloseButton('adsIfrme6');
-            AddCloseButton('adsIfrme8');
-        }
-
-        InitCloseButton();
-    </script>
-    <script type="text/javascript" src="/Scripts/kissreader.js?v=1"></script>
-    
-<div class="clear2">
-</div>
-<div class="clear2">
-</div>
-<div style="text-align: center;">
-    <div style="display: inline; width: 90px">
-        <iframe src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com%2Freadcomiconlineweb&amp;send=false&amp;layout=button_count&amp;width=100&amp;show_faces=false&amp;action=like&amp;colorscheme=dark&amp;font&amp;height=21"
-            scrolling="no" frameborder="0" style="border: none; overflow: hidden; width: 90px;
-            height: 21px; vertical-align: middle" allowtransparency="true"></iframe>
-    </div>
-    <div style="display: inline;">
-        <span class='st_fblike_hcount' displaytext='Facebook Like'></span><span class='st_facebook_hcount'
-            displaytext='Facebook'></span><span class='st_twitter_hcount' displaytext='Tweet'>
-        </span><span class='st_googleplus_hcount' displaytext='Google +'></span><span class='st_sharethis_hcount'
-            displaytext='ShareThis'></span>
-        <script type="text/javascript">            var switchTo5x = true;</script>
-        <script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
-        <script type="text/javascript">            stLight.options({ publisher: "39da8212-8bbb-4097-a85f-6cedb7bc9464" }); </script>
-    </div>
-    <div class="clear2">
-        &nbsp;
-    </div>
-        <div class="clear2">
-        &nbsp;
-    </div>
-    <div style="font-size: 14px; font-weight: bold;">
-        Please do NOT spoil content of NEXT issues <a href="http://readcomiconline.to/Message/ReportError"
-            target="_blank" rel="nofollow">[Report spoiler]</a>. Do not spam or link to
-        other comic sites.
-    </div>
-    <div class="clear2">
-        &nbsp;
-    </div>
-</div>
-<div class="clear2">
-    &nbsp;
-</div>
-<div style="width: 820px; text-align: center; margin: auto; background-color: #1f1f1f"
-    id="divComments">
-    <div style="width: 780px; display: inline-block">
-        <div id="disqus_thread">
-            Loading...
-        </div>        
-    </div>
-    <script type="text/javascript">
-        var disqus_shortname = 'readcomiconline'; // required: replace example with your forum shortname
-        var disqus_url = 'http://readcomiconline.to/Comic/Spider-Man-Wolverine/Issue-1?id=81184';
-
-        /* * * DON'T EDIT BELOW THIS LINE * * */
-        (function () {
-            var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-            dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
-            (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-        })();        
-    </script>
-</div>
-<div class="clear2">
-    &nbsp;</div>
-<div style="text-align: center;">
-    <a href="#">[ Back to top ]</a>
-</div>
-
-        <!-- end div container -->
-        <div class="clear">
-            &nbsp;</div>
-        <div class="clear">
-            &nbsp;</div>
-        <div class="clear">
-            &nbsp;</div>
-        
-    </div>
-    
-    <div id="footer">
-        <div id="footcontainer" style="position: relative">
-            <p>
-                From 2015 <a href="http://readcomiconline.to">ReadComicOnline.to</a>. Copyrights and trademarks
-                for the comic, and other promotional materials are held by their respective owners
-                and their use is allowed under the fair use clause of the Copyright Law.
-                
-
-<a href="/Message/PrivacyPolicy">Privacy Policy</a>&nbsp;|&nbsp;<a href="/Message/DMCA">DMCA</a>&nbsp;|&nbsp;<a target="_blank" href="https://www.facebook.com/messages/readcomiconlineweb">Contact us</a>&nbsp;&nbsp;</p>
-        </div>
-    </div>
-    <script type="text/javascript">
-        $('#footer').css('top', $(document).height() - $('#containerRoot').height());
-    </script>
-</body>
-</html>
-
-
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
-<head><title>
-	
-    Spider-Man & Wolverine
-    Issue #1
-    - Read
-    Spider-Man & Wolverine
-    Issue #1
-    comic online in high quality
-
-</title><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><meta http-equiv="X-UA-Compatible" content="IE=edge" /><meta property="fb:admins" content="100006233868825" /><meta property="fb:app_id" content="130397647116314" />
-<script type="text/javascript" src="/Scripts/jquery17.min.js"></script>
-<!-- CSS -->
-<link href="http://readcomiconline.to/Content/css/tpl_style.css?v=14" rel="stylesheet" type="text/css" />
-<link href="http://readcomiconline.to/Content/css/upload-progress.css" rel="stylesheet" type="text/css">
-<link rel="shortcut icon" href="http://readcomiconline.to/Content/images/favicon.ico" type="image/x-icon" />
-<!--[if IE 6]><link href="http://readcomiconline.to/Content/css/tpl_ie_6.css"  rel="stylesheet" type="text/css" media="screen" /><![endif]-->
-<!--[if IE 7]><link rel="stylesheet" type="text/css" href="http://readcomiconline.to/Content/css/tpl_ie_7.css" /><![endif]-->
-<!--[if IE 8]><link rel="stylesheet" type="text/css" href="http://readcomiconline.to/Content/css/tpl_ie_7.css" /><![endif]-->
-
-    
-    <meta name="description" content="Read Spider-Man &amp; Wolverine Issue #1 comic online - Spider-Man &amp; Wolverine Issue #1" />
-    <meta name="keywords" content="read Spider-Man &amp; Wolverine Issue #1 comic online, download Spider-Man &amp; Wolverine Issue #1 , Spider-Man & Wolverine Issue #1" />
-    <link rel="image_src" href="http://readcomiconline.to/Uploads/Etc/8-9-2016/2033551534215.jpg" />
-
-    <script>
-        (function (i, s, o, g, r, a, m) {
-            i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
-                (i[r].q = i[r].q || []).push(arguments)
-            }, i[r].l = 1 * new Date(); a = s.createElement(o),
-      m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
-        })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
-
-        ga('create', 'UA-63783416-4', 'auto');
-        ga('send', 'pageview');
-    </script>
-</head>
-<body>
-    
-    <div id="containerRoot">
-        <div id="head">
-            <h3>
-                
-<div style="position: relative; text-align: right; margin: -40px 46px 20px 0px; font: bold 13px Arial;">
-    
-    <div id="topHolderBox" style="width: 230px; height: 30px;">
-        <img src="http://readcomiconline.to/Content/images/user-small.png" style="vertical-align: middle; margin-bottom: 5px">
-        Please <a class="red" href="http://readcomiconline.to/Login">login</a>
-        or <a class="red" href="http://readcomiconline.to/Register">register</a>
-    </div>
-    
-</div>
-
-                <div id="search" style="position: relative">
-                    <form id="formSearch" method="post">
-                    <p>
-                        <input style="width: 250px" id="keyword" name="keyword" value="" class="text" autocomplete="off" />
-                        <input id="imgSearch" type="image" src="http://readcomiconline.to/Content/images/search.png"
-                            class="button" onclick="return false;" />
-                    </p>
-                    <div id="result_box" style="display: none; left: 57px; margin-top: -3px">
-                    </div>
-                    <div style="float: left; width: 240px; text-align: left; margin-left: 58px;">
-                        <div style="float: left; width: 90px">
-                            <iframe src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com%2Freadcomiconlineweb&amp;send=false&amp;layout=button_count&amp;width=100&amp;show_faces=false&amp;action=like&amp;colorscheme=dark&amp;font&amp;height=21"
-                                scrolling="no" frameborder="0" style="border: none; overflow: hidden; width: 100px;
-                                height: 21px;" allowtransparency="true"></iframe>
-                        </div>
-                        <div style="float: left; width: 85px">
-                            <!-- Place this tag where you want the +1 button to render. -->
-                            <div class="g-plusone" data-size="medium" data-href="http://readcomiconline.to">
-                            </div>
-                            <!-- Place this tag after the last +1 button tag. -->
-                            <script type="text/javascript">
-                                (function() {
-                                    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
-                                    po.src = 'https://apis.google.com/js/plusone.js';
-                                    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
-                                })();
-                            </script>
-                        </div>
-                        <div style="float: left; width: 65px">
-                            <a href="https://twitter.com/ReadComicOnline" class="twitter-follow-button" data-show-screen-name="false" data-lang="en" data-show-count="false">&nbsp;</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-                        </div>
-                    </div>
-                    <div style="margin: 10px 48px 10px 0">
-                        <a href="http://readcomiconline.to/AdvanceSearch">
-                            <img src="http://readcomiconline.to/Content/images/read.png"
-                                width="16px" border="0" style="vertical-align: middle" />&nbsp;&nbsp;Adv Search</a>
-                    </div>
-                    </form>
-                </div>
-                <script type="text/javascript">
-                    $('#imgSearch').click(function () {
-                        Submit();
-                    });
-
-                    var delay = (function () {
-                        var timer = 0;
-                        return function (callback, ms) {
-                            clearTimeout(timer);
-                            timer = setTimeout(callback, ms);
-                        };
-                    })();
-
-                    $('#keyword').keyup(function () {
-                        delay(function () {
-                            Suggest();
-                        }, 500);
-                    });
-
-                    $('#selectSearch').change(function () {
-                        Suggest();
-                    });
-
-                    $("#selectSearch option").each(function () {
-                        var url = location.href;
-                        if (url.indexOf($(this).attr('value')) != -1)
-                            $(this).attr("selected", "selected");
-                    });
-
-                    function Submit() {
-                        if ($.trim($('#keyword').val()).length < 2) {
-                            $('#keyword').blur();
-                            alert('Keyword must be more than one character!');
-                        }
-                        else {
-                            $("#formSearch").attr('action', "/Search/Comic");
-                            $("#formSearch").submit();
-                        }
-                    }
-
-
-                    function Suggest() {
-                        var keyword = $.trim($('#keyword').val());
-                        if (keyword != "") {
-                            $('#result_box').html("<span id='loader'></span>");
-                            $('#result_box').css('display', 'block');
-                            $.ajax(
-                            {
-                                type: "POST",
-                                url: "/Search/SearchSuggest",
-                                data: "type=Comic" + '&keyword=' + encodeURIComponent(keyword),
-                                success: function (message) {
-                                    if (message != "") {
-                                        $('#result_box').html(message);
-                                    }
-                                    else {
-                                        //$('#result_box').html('');
-                                        //$('#result_box').css('display', 'none');
-                                        $('#result_box').html('<a href="#" onclick="return false;">Press Enter to search...</a>');
-                                    }
-                                }
-                            });
-                        }
-                        else {
-                            $('#result_box').html('');
-                            $('#result_box').css('display', 'none');
-                        }
-                    }
-
-                    $(document).click(function (e) {
-                        var container = $("#search");                        
-                        if (container.has(e.target).length == 0) {
-                            $("#result_box").hide();
-                        }
-                    });
-                </script>
-            </h3>
-            <h1>
-                <a href="http://readcomiconline.to" title="ReadComicOnline - High quality comic online"
-                    class="logo">ReadComicOnline.to</a></h1>
-        </div>
-        <!-- end div head -->
-        <div class="clear">
-        </div>
-        <div id="headnav">
-            
-<div id="navbar">
-    <div id="navcontainer">
-        <ul>
-            <li id="liHome"><a href="http://readcomiconline.to">Home</a></li>
-            <li id="liDS"><a href="http://readcomiconline.to/ComicList">
-                Comic list</a></li>
-            <li id="li1"><a target="_blank" href="http://kissmanga.com/">Manga list</a></li>
-            <li id="liReportError"><a href="/Message/ReportError">Report Error</a></li>
-            <li id="liRequest"><a rel="nofollow" target="_blank" href="https://www.facebook.com/messages/readcomiconlineweb">
-                Request Comic</a></li>
-            
-            <li id="liCommunity"><a rel="nofollow" target="_blank" href="http://forum.kissanime.com">Forum</a></li>
-            <li id="li3"><a target="_blank" rel="nofollow" href="http://kissanime.to/">Watch anime</a></li>
-            <li id="li2"><a target="_blank" rel="nofollow" href="http://kisscartoon.me/">Watch cartoon</a></li>
-        </ul>
-    </div>
-</div>
-<script type="text/javascript">
-    var path = 'Comic';
-    if (path == 'Home')
-        $('#liHome a').attr('id', 'currentTab');
-    else if (path == 'Comic' || path == 'Genre' || path == 'Group')
-        $('#liDS a').attr('id', 'currentTab');
-    else if (document.URL.indexOf('GoPremium') >= 0)
-        $('#liGoPremium a').attr('id', 'currentTab');
-    else if (document.URL.indexOf('FreeDownload') >= 0)
-        $('#liDS a').attr('id', 'currentTab');
-    else if (document.URL.indexOf('FAQ') >= 0)
-        $('#liFAQ a').attr('id', 'currentTab');
-    else if (path == 'Error')
-        $('#liReport a').attr('id', 'currentTab');
-    else
-        $('#navcontainer a[href*="' + path + '"]').attr('id', 'currentTab');
-</script>
-
-    <div id="navsubbar">
-        <p>
-            <a href="http://readcomiconline.to/Comic/Spider-Man-Wolverine">
-                Comic
-                Spider-Man & Wolverine
-                information</a>
-        </p>
-    </div>
-
-        </div>
-        <!-- end div headnav -->
-        
-    
-    <div style="width: 95%; text-align: center; margin: auto">
-        <!-- Episodes and pages -->
-        <div style="margin: auto; width: 885px; padding-top: 10px">
-            <label class="lbl" style="float: left;">Quality</label>
-            <select id="selectQuality" style="float: left; min-width: 93px">
-                <option value="hq" selected>High quality</option>
-                <option value="lq" >Low quality</option>
-            </select>
-            <label class="lbl" style="float: left;">Reading type</label>
-            <select id="selectReadType" style="float: left; min-width: 93px">
-                <option value="0" selected>One page</option>
-                <option value="1">All pages</option>
-            </select>
-            <label class="lbl" style="float: left;">Issue</label>
-            <select id="selectEpisode" style="float: left; width: 250px">
-                
-                <option value="Issue-1?id=81184" selected>
-                    Issue #1
-                </option>
-                
-                <option value="Issue-2?id=81185" >
-                    Issue #2
-                </option>
-                
-                <option value="Issue-3?id=81186" >
-                    Issue #3
-                </option>
-                
-                <option value="Issue-4?id=81187" >
-                    Issue #4
-                </option>
-                
-            </select>
-            <label class="lbl" style="float: left;">Page</label>
-            <select id="selectPage" style="float: left; width: 50px">
-                
-                <option value="0">1</option>
-                
-                <option value="1">2</option>
-                
-                <option value="2">3</option>
-                
-                <option value="3">4</option>
-                
-                <option value="4">5</option>
-                
-                <option value="5">6</option>
-                
-                <option value="6">7</option>
-                
-                <option value="7">8</option>
-                
-                <option value="8">9</option>
-                
-                <option value="9">10</option>
-                
-                <option value="10">11</option>
-                
-                <option value="11">12</option>
-                
-                <option value="12">13</option>
-                
-                <option value="13">14</option>
-                
-                <option value="14">15</option>
-                
-                <option value="15">16</option>
-                
-                <option value="16">17</option>
-                
-                <option value="17">18</option>
-                
-                <option value="18">19</option>
-                
-                <option value="19">20</option>
-                
-                <option value="20">21</option>
-                
-                <option value="21">22</option>
-                
-                <option value="22">23</option>
-                
-                <option value="23">24</option>
-                
-                <option value="24">25</option>
-                
-            </select>
-            <div style="float: left; padding-left: 20px">
-                <img id='btnPrevious' src="http://readcomiconline.to/Content/images/previous.png" title="Previous page" style="cursor: pointer;" />&nbsp;&nbsp;
-                <img id='btnNext' src="http://readcomiconline.to/Content/images/next.png" title="Next page" style="cursor: pointer" />
-            </div>
-        </div>
-        <!-- End Episodes and pages -->
-        <div class="clear">&nbsp;</div>
-        <!-- Ads -->
-        <div style="height:1px">
-        <a href="javascript:void(0)" id="aCurr">&nbsp;</a>
-        </div>
-        
-<div class="clear2"></div>
-   
-<iframe sandbox="allow-same-origin allow-scripts allow-popups allow-forms" id="adsIfrme6" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" src="http://readcomiconline.to/Ads/smaato300read1.aspx" width="300px" height="250px">
-</iframe>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<iframe sandbox="allow-same-origin allow-scripts allow-popups allow-forms" id="adsIfrme8" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" src="http://readcomiconline.to/Ads/smaato300read2.aspx" width="300px" height="250px">
-</iframe>
-
-<div class="clear2">&nbsp;</div>
-<div class="clear2">&nbsp;</div>
-
-        <!-- Read -->
-        <div style="clear: both">&nbsp;
-        </div>
-        <script type="text/javascript">
-            var requestFix = false;
-            function onLoadImg(ele) {
-                if (!requestFix) {
-                    var srcImage = $(ele).attr('src');
-                    if ($(ele).width() == 200 && $(ele).height() == 200) {
-                        $.ajax({
-                            url: srcImage,
-                            type: 'GET',
-                            complete: function (xhr, textStatus) {
-                                if (xhr.status == 404) {
-                                    requestFix = true;
-                                    $.ajax({
-                                        type: "POST",
-                                        url: "/External/RPB",
-                                        success: function (message) {
-                                            if (message == "0") {
-                                                alert("This issue is broken, we're working to fix it.");
-                                            } else {
-                                                //alert("There is network problem, please try to refresh browser.");
-                                            }
-                                        }
-                                    });
-                                }
-                            }
-                        });
-                    }
-                }
-            }
-        </script>
-        <div id="divImage" style="background: url('http://readcomiconline.to/Content/images/loading.gif') no-repeat 50% 50%">
-            <br />
-            <img onload="onLoadImg(this);" style="cursor: pointer" id="imgCurrent" src="http://2.bp.blogspot.com/6K2je27Pl5hwK9QpvArV0AWHqvLqufgPU1uSOl3HrYV_DIn-_Kg-AKOVfs0f6YK5aNXC3x4aIJ5g=s0" />
-        </div>
-        <div id="divMsg" class="banner" style="margin: auto; width: 500px; height: 120px;
-            margin-top: 20px; display: none">
-            <div style="float: left; width: 390px">
-                <p style="font-size: 14px; padding: 16px 0 0 6px">
-                    No more issues today :(. Please come back later ^^!
-                </p>
-            </div>
-            <div style="float: right; width: 110px">
-                <img src="http://readcomiconline.to/Content/images/error.png" style="border: 0px" />
-            </div>
-        </div>
-        <div class="btnZoom-container">
-            <a href="javascript:void(0)" class="zoom-header"></a>
-            <a href="javascript:void(0)" class="btnZoom zoomIn" style="margin-right: 3px;">+</a>
-            <a href="javascript:void(0)" class="btnZoom zoomOut">-</a>
-        </div>
-        <div class="clear">&nbsp;</div>
-        
-<iframe id="adsIfrme7" frameborder="0" scrolling="no" src="http://readcomiconline.to/ads/mgid.aspx" width="820px" height="297px">
-</iframe>  
-<div class="clear2">&nbsp;</div>
-<iframe sandbox="allow-same-origin allow-scripts allow-popups allow-forms" id="adsIfrme10" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" src="http://readcomiconline.to/Ads/smaato728b.aspx" width="728px" height="90px">
-</iframe>
-
-        <div class="clear">&nbsp;</div>
-        <div class="clear2">&nbsp;</div>
-        <div>
-            
-<img src="/Content/images/user-small.png" style="vertical-align: middle; margin-bottom: 5px">
-Please
-<a href="/Login?redirect=%2fComic%2fSpider-Man-Wolverine%2fIssue-4%3fid%3d81184">Login</a> or
-<a href="/Register">Register</a>
-to use <b>Bookmark</b> feature
-
-        </div>
-        <div class="clear2">&nbsp;</div>
-        <div>
-            Click on image go to next page, or use the arrow keys <b><- -></b> go to next/prev page.<br />
-            <b>You can choose reading type 'One page'/'All pages' on top.</b>
-        </div>
-        <div class="clear2">&nbsp;</div>
-        <div class="clear2">&nbsp;</div>
-    </div>
-    <script type="text/javascript">
-        function isNumber(n) {
-            return !isNaN(parseFloat(n)) && isFinite(n);
-        }
-
-        var lstImages = new Array();
-        
-        lstImages.push("http://2.bp.blogspot.com/6K2je27Pl5hwK9QpvArV0AWHqvLqufgPU1uSOl3HrYV_DIn-_Kg-AKOVfs0f6YK5aNXC3x4aIJ5g=s0");
-        
-        lstImages.push("http://2.bp.blogspot.com/iInSzpAZF8g9UvLkrXsXTEPpSo2F3etmIwABYBdH1_GD-mho1lSSMg0s9oX-RJ-_8I8v5EoVsRZ1=s0");
-        
-        lstImages.push("http://2.bp.blogspot.com/kPy0HrS04I_sBpO_6xdJMnW9oJEM1nVGEsx7GcGEy-xLylL0vrQIAwZbnbc2GJTZDwBWtgP0KQjl=s0");
-        
-        lstImages.push("http://2.bp.blogspot.com/zC6nvTohZAYnTLkLYAg5AT4jvBF1Y7ncXPTXffSWOnHDmiFJvUZo7eyfpaI2V4hxRfJtJvjJNOaH=s0");
-        
-        lstImages.push("http://2.bp.blogspot.com/8N_hcDjoshuna9ycipxVTy7x8C-k68zRhxfGLZ5ipjsyjPEb6iQtyB963ECvYAtpz4K8UEiwJPVm=s0");
-        
-        lstImages.push("http://2.bp.blogspot.com/FUswFplL_Gs0XJd92GQH6LAYAFWPTsL5hlgbGSs_3D-KXJecH3ddTtpgnn2jmQCxq2Pwegjxzpr-=s0");
-        
-        lstImages.push("http://2.bp.blogspot.com/_ncaKak2S1NljpVQsigbrmciEe6MPZacZvJXUWJSQIsJnO5atkkDVc4em1ZcHBvRJ6OhWv597zNL=s0");
-        
-        lstImages.push("http://2.bp.blogspot.com/VlYIjMLW5VFyGN4rSh8WhfOv6it-GBDsjYtRyPGknhzPVjryFTSoAXpbJKrUWGyLI5qfP7im2caB=s0");
-        
-        lstImages.push("http://2.bp.blogspot.com/Q8TYEYiU9iQk6h8Hlf_nXb7Zr2i-Cbnq8-NnxuTvGXRD1raX3A5JXhH5h5j8Th7kUMtSwjXNjKdH=s0");
-        
-        lstImages.push("http://2.bp.blogspot.com/6V6UQRIOeOF1sAD5IaSKQP_koJTrsd8r1PsJu0lr3CHJ1tTXHK-Ni5DGTGO1bIak8GATO3GiKIG1=s0");
-        
-        lstImages.push("http://2.bp.blogspot.com/aneh_NmAJsN4K0amUkUBQtumby-5dWYAFW7IBnUbpb9hE0R5IUO_YgZv_rTwXv_-znrFN-X4gX3s=s0");
-        
-        lstImages.push("http://2.bp.blogspot.com/_ViDAur99zePufv77s5cgXDPGxUlvdi6u9eZxRfD8KOyxhAHMKHvrYKHrZwU7Na0D0z9c107_AQ2=s0");
-        
-        lstImages.push("http://2.bp.blogspot.com/kCFwA9VvDyOXlX6pL9UClo2FDm62aXTwK6LZLC7d9sgV976afBaqbBoYmjBCcQlaKBb-XLbxgrGk=s0");
-        
-        lstImages.push("http://2.bp.blogspot.com/SVvG4ICXgKamfOYbTUMGpDJJJYNDPLqyDDWQ5J02pC3lLy1GiAAFjBz-cGgIyuv93zXMZPKG_igT=s0");
-        
-        lstImages.push("http://2.bp.blogspot.com/w6qXI8QiM6DDv3JR1HikGWruQLoQC7om_pcef-dZfN_Nw_5wSTsvzvmlVQ3vwAyI7cr7gMZXbR43=s0");
-        
-        lstImages.push("http://2.bp.blogspot.com/dhiRAHGfMwy4dlSyByFCsFR4CRwMqqpKo3mrE8EzFw8sVK5UncaPtH7nNnzeeRiD5Q6pFgdpaXJu=s0");
-        
-        lstImages.push("http://2.bp.blogspot.com/KGkVYc5G6whmd2GduppdJ1I-QlhxjLWVOQYVbONL7GcEa_kzey-kGo3dWB1ENLpwxEuTZ4dvGKcI=s0");
-        
-        lstImages.push("http://2.bp.blogspot.com/PXYq3E9hJCizlkZKGjvgrKXAw9FK3p70XuID_NC78LlVxbicVn7hXGCyvId4hVkdVrJrY4Cv7gmS=s0");
-        
-        lstImages.push("http://2.bp.blogspot.com/l6mQATh3K0mJznqKed0KnHLvl4nLsyUOq5x0uJahDbSVV5mcXzAbj4y-iw86Zk2u9Z6jZMRbP4vc=s0");
-        
-        lstImages.push("http://2.bp.blogspot.com/aEsFbrUwkfAp3QcoMi_UucEVfFu_71v6fX3UZv-Ekbg6Q5jJrLpEGUTq93YWSjbEbl5n1QoosCbP=s0");
-        
-        lstImages.push("http://2.bp.blogspot.com/yO7EdZZvebUQEmUQNZANsXo0RFnC9bctGbQ-eOdrsWu9kwvb_pFsJ9jt_j4g7F_TAF8NdSWMm9xl=s0");
-        
-        lstImages.push("http://2.bp.blogspot.com/Tte7qDKZNl7Gpn6NlvdCo8Q1qkLFIOy2XrSgJ47NfmJXLqu1IkaYFPbWo8oCNsqEniNmejsBE7ON=s0");
-        
-        lstImages.push("http://2.bp.blogspot.com/cxAbcqu8AnAjYECONwtgaxotpyQcNqtPzXCbb807cOOQUwALDQSR1-tEX2nFeeSUDRxdL0sgkeKc=s0");
-        
-        lstImages.push("http://2.bp.blogspot.com/ViFS6xUgiDlxZIXZvJlvldHulMV6ofFDWiq9q07FgW_TW8uij4d1TUbG5yzT_nfGYbls4HS9JnSP=s0");
-        
-        lstImages.push("http://2.bp.blogspot.com/REinCdAFFsCtWb2pNd__MLcDjxdZ4TBnrVbXjSRbdl696Cz1sJMJLeEC0dLZ6zHiBoHKnefBClix=s0");
-        
-        var currImage = 0;
-        var start = location.href.indexOf('#');
-        if (start > -1)
-        {
-            start++;
-            currImage = location.href.substr(start, location.href.length - start) - 1;                
-            if (currImage == -1)
-                currImage = 0;
-            if (!isNumber(currImage))
-                currImage = 0;
-
-            SetImage();
-        }
-
-        PreloadImage();
-
-        $("#aCurr").focus().keyup(function(event){
-            if (event.keyCode == '37')                
-                Previous();
-            else if (event.keyCode == '39')
-                Next();                
-        });
-
-        $('#imgCurrent').live("click", function () {
-            Next();
-        });
-
-        $('#btnNext').click(function () {
-            Next();
-        });
-
-        $('#btnPrevious').click(function () {
-            Previous();
-        });
-
-        $('#selectPage').change(function () {
-            currImage = parseInt($(this).val());
-            SetImage();
-            PreloadImage();
-            if ($('#divMsg').css('display') == 'block') {
-                $('#divMsg').css('display', 'none');
-            }
-        });
-
-        $('#selectEpisode').change(function() {
-            location.href = 'http://readcomiconline.to/Comic/Spider-Man-Wolverine/' + $(this).val();
-        });
-
-        $('#selectReadType').change(function() {
-            window.location = 'http://readcomiconline.to/Comic/Spider-Man-Wolverine/Issue-1?id=81184&readType=' + $(this).val();
-        });
-
-        $('#selectQuality').change(function() {
-            window.location = 'http://readcomiconline.to/Comic/Spider-Man-Wolverine/Issue-1?id=81184&quality=' + $(this).val();
-        });
-
-        function Next() {
-            if (lstImages.length > currImage + 1) {
-                currImage++;
-                SetImage();
-                PreloadImage();
-                if ($('#divMsg').css('display') == 'block') {
-                    $('#divMsg').css('display', 'none');
-                }
-            }
-            else {
-                var nextOption = $('#selectEpisode').find('option:selected').next();
-                if (nextOption.length) {
-                    location.href = 'http://readcomiconline.to/Comic/Spider-Man-Wolverine/' + nextOption.val();
-                }
-                else {
-                    $('#divImage').empty();
-                    $('#divMsg').css('display', 'block');
-                }
-            }
-        }
-
-        function Previous() {
-            if (currImage > 0) {
-                currImage--;
-                SetImage();
-                if ($('#divMsg').css('display') == 'block') {
-                    $('#divMsg').css('display', 'none');
-                }
-            }
-            else {
-                var previousOption = $('#selectEpisode').find('option:selected').prev();
-                if (previousOption.length) {
-                    location.href = 'http://readcomiconline.to/Comic/Spider-Man-Wolverine/' + previousOption.val();
-                }
-                else {
-                    alert('This is first Issue!');
-                }
-            }                
-        }
-
-        function SetImage() {
-            location.href = "/Comic/Spider-Man-Wolverine/Issue-4?id=81184" + "#" + (currImage + 1);
-            $('#imgCurrent').attr('src', lstImages[currImage]);
-            $('#selectPage').val(currImage);
-            document.getElementById('aCurr').scrollIntoView(true);
-            $("#aCurr").focus();
-        }
-
-        function PreloadImage()
-        {
-            var preImage;
-            if (lstImages.length > currImage + 1)                
-                preImage = $('<img />').attr('src', lstImages[currImage + 1]);
-            if (lstImages.length > currImage + 2)                
-                preImage = $('<img />').attr('src', lstImages[currImage + 2]);
-        }
-
-        function AddCloseButton(id) {
-            var elem = $('#' + id);
-            if (elem.position() != null) {
-                var top = elem.position().top + elem.height();
-                var left = elem.position().left;
-                elem.after('<div class="divCloseBut" style="position:absolute; left:' + left + 'px; top: ' + top + 'px"><a href="#" onclick="$(\'#' + id + '\').remove();$(this).remove(); InitCloseButton(); return false;">Hide</a></div>');
-            }
-        }
-
-        function InitCloseButton() {
-            $('.divCloseBut').remove();
-            AddCloseButton('adsIfrme6');
-            AddCloseButton('adsIfrme8');
-        }
-
-        InitCloseButton();
-    </script>
-    <script type="text/javascript" src="/Scripts/kissreader.js?v=1"></script>
-    
-<div class="clear2">
-</div>
-<div class="clear2">
-</div>
-<div style="text-align: center;">
-    <div style="display: inline; width: 90px">
-        <iframe src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com%2Freadcomiconlineweb&amp;send=false&amp;layout=button_count&amp;width=100&amp;show_faces=false&amp;action=like&amp;colorscheme=dark&amp;font&amp;height=21"
-            scrolling="no" frameborder="0" style="border: none; overflow: hidden; width: 90px;
-            height: 21px; vertical-align: middle" allowtransparency="true"></iframe>
-    </div>
-    <div style="display: inline;">
-        <span class='st_fblike_hcount' displaytext='Facebook Like'></span><span class='st_facebook_hcount'
-            displaytext='Facebook'></span><span class='st_twitter_hcount' displaytext='Tweet'>
-        </span><span class='st_googleplus_hcount' displaytext='Google +'></span><span class='st_sharethis_hcount'
-            displaytext='ShareThis'></span>
-        <script type="text/javascript">            var switchTo5x = true;</script>
-        <script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
-        <script type="text/javascript">            stLight.options({ publisher: "39da8212-8bbb-4097-a85f-6cedb7bc9464" }); </script>
-    </div>
-    <div class="clear2">
-        &nbsp;
-    </div>
-        <div class="clear2">
-        &nbsp;
-    </div>
-    <div style="font-size: 14px; font-weight: bold;">
-        Please do NOT spoil content of NEXT issues <a href="http://readcomiconline.to/Message/ReportError"
-            target="_blank" rel="nofollow">[Report spoiler]</a>. Do not spam or link to
-        other comic sites.
-    </div>
-    <div class="clear2">
-        &nbsp;
-    </div>
-</div>
-<div class="clear2">
-    &nbsp;
-</div>
-<div style="width: 820px; text-align: center; margin: auto; background-color: #1f1f1f"
-    id="divComments">
-    <div style="width: 780px; display: inline-block">
-        <div id="disqus_thread">
-            Loading...
-        </div>        
-    </div>
-    <script type="text/javascript">
-        var disqus_shortname = 'readcomiconline'; // required: replace example with your forum shortname
-        var disqus_url = 'http://readcomiconline.to/Comic/Spider-Man-Wolverine/Issue-1?id=81184';
+        var disqus_url = 'http://readcomiconline.to/Comic/Spider-Man-Punisher-Sabretooth-Designer-Genes/Full?id=76903';
 
         /* * * DON'T EDIT BELOW THIS LINE * * */
         (function () {
