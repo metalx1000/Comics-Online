@@ -48,17 +48,39 @@
   </style>
 
   <script>
-    var pages
+    var pages;
+    var page=0;
+
     $(document).ready(function(){
+      //get the pages
       var comic = getVar("comic");
       $.get("comics/"+comic,function(data){
         pages = data.split("\n");
       }).done(function(){
-        $("#hidimg").attr('src',pages[0]);
-        $(".wide").css('background-image','url('+pages[0]+')');
+        $("#hidimg").attr('src',pages[page]);
+        $(".wide").css('background-image','url('+pages[page]+')');
       });
       
+      //control the pages
+      $("#next").click(function(){
+        page++;
+        flip();
+      });
+
+      $("#prev").click(function(){
+        page--;
+        flip();
+      });
+
     });
+
+
+    function flip(){
+      $("#hidimg").attr('src',pages[page+1]);
+      //$("#hidimg2").attr('src',pages[page+1]);
+      $(".wide").css('background-image','url('+pages[page]+')'); 
+      $("html, body").animate({ scrollTop: "0px", scrollLeft: "0px" });
+    }
 
     function getVar(name, url) {
         if (!url) url = window.location.href;
@@ -78,8 +100,8 @@
     <h3 id="page">0</h3>
   </div>
   <div class="btn-group btn-group-justified footer">
-    <a href="#" class="btn btn-primary">Previous</a>
-    <a href="#" class="btn btn-primary">Next</a>
+    <a id="prev" class="btn btn-primary">Previous</a>
+    <a id="next" class="btn btn-primary">Next</a>
   </div>
   <img id="hidimg" src="placeholder.png" style="visibility: hidden;" />
 </div>
