@@ -1,0 +1,16 @@
+#!/bin/bash
+
+domain="http://readcomiconline.to"
+comic="$domain/Comic/The-Maxx-Maxximized/Issue-1"
+agent="User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36"
+form="$domain/cdn-cgi/l/chk_jschl"
+
+echo "Getting form data"
+data="$(curl -s -H "$agent" "$comic" |grep input|cut -d\" -f6)"
+jschl_vc="$(echo "$data"|head -n1)"
+pass="$(echo "$data"|head -n2|tail -n1)"
+jschl_answer="$(echo "$data"|head -n3|tail -n1)"
+
+echo "Getting Cookie"
+curl -c cookie --data "jschl-vc=$jschl_vc&pass=$pass&jschl_answer=$jschl_answer" "$form"
+
