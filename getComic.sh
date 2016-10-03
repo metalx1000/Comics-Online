@@ -8,3 +8,5 @@ echo "Adding list to $comicDIR/$title.php"
 grep 'lstImages.push' comic.tmp|cut -d\" -f2 > "$comicDIR/$title.php"
 
 echo "Number of pages found $(wc -l "$comicDIR/$title.php")"
+
+rm "comics/.php" 2> /dev/null

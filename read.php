@@ -53,15 +53,18 @@
   <script>
     var pages;
     var page=0;
+    var count;
 
     $(document).ready(function(){
       //get the pages
       var comic = getVar("comic");
       $.get("comics/"+comic,function(data){
         pages = data.split("\n");
+        count = pages.length;
       }).done(function(){
         $("#hidimg").attr('src',pages[page]);
         $(".wide").css('background-image','url('+pages[page]+')');
+        pageCount();
       });
       
       //control the pages
@@ -75,6 +78,15 @@
         flip();
       });
 
+      $("#jumpb").click(function(){
+        page-=10;
+        flip();
+      });
+
+      $("#jumpf").click(function(){
+        page+=10;
+        flip();
+      });
     });
 
 
@@ -83,6 +95,19 @@
       //$("#hidimg2").attr('src',pages[page+1]);
       $(".wide").css('background-image','url('+pages[page]+')'); 
       $("html, body").animate({ scrollTop: "0px", scrollLeft: "0px" });
+      if(page >= pages.length - 2){
+        page = pages.length - 2;
+      }else if (page <= 0){
+        page = 0;
+      }
+
+
+      pageCount();
+    }
+
+    function pageCount(){
+      var total = pages.length-2;
+      $("#page").html(page+1+" of "+total);
     }
 
     function getVar(name, url) {
@@ -104,6 +129,8 @@
   </div>
   <div class="btn-group btn-group-justified footer">
     <a id="prev" class="btn btn-primary">Previous</a>
+    <a id="jumpb" class="btn btn-primary">Jump -10</a>
+    <a id="jumpf" class="btn btn-primary">Jump 10</a>
     <a id="next" class="btn btn-primary">Next</a>
   </div>
   <img id="hidimg" src="placeholder.png" style="visibility: hidden;" />
