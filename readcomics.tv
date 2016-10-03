@@ -1,0 +1,16 @@
+#!/bin/bash
+
+if [ "$#" -lt 1 ]
+then
+  echo "URL Needed "
+  echo "Example: $0 'http://www.readcomics.tv/death-of-wolverine/chapter-1/full'"
+  exit
+fi
+
+rm comic.tmp
+wget -q "$1" -O comic.tmp
+title="$(cat comic.tmp|grep '<title>'|head -n1|cut -d\> -f2|cut -d\< -f1|cut -d\# -f1|sed 's/&/and/g')"
+echo "Getting $title..."
+cat comic.tmp|grep chapter_img|grep '.jpg'|cut -d\" -f6 > "comics/$title.php"
+
+echo "$(cat "comics/$title.php" |wc -l) pages found."
