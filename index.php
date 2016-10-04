@@ -13,9 +13,10 @@
 <!-- end favicon -->
 
   <script>
+    var comics;
     $(document).ready(function(){
       $.get('list.php',function(data){
-        var comics = data.split("\n");
+        comics = data.split("\n").sort();
         comics.forEach(function(comic){
           if(comic != ""){
             $("#mainlist").append('<a href="read.php?comic='+comic+'"><li class="list-group-item">'+comic+'</li></a>');

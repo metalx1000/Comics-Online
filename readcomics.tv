@@ -15,3 +15,5 @@ echo "Getting $title..."
 cat comic.tmp|grep chapter_img|grep '.jpg'|cut -d\" -f6 > "comics/$title.php"
 
 echo "$(cat "comics/$title.php" |wc -l) pages found."
+
+chmod -R 755 comics/*
