@@ -24,8 +24,9 @@
       width:100%;
       height:100%;
       height:calc(100% - 1px);
-      background-image:url('placeholder.png');
+      //background-image:url('placeholder.png');
       background-size:cover;
+      padding:0px;
     }
 
     .wide img {
@@ -63,7 +64,7 @@
         count = pages.length;
       }).done(function(){
         $("#hidimg").attr('src',pages[page]);
-        $(".wide").css('background-image','url('+pages[page]+')');
+        //$(".wide").css('background-image','url('+pages[page]+')');
         pageCount();
       });
       
@@ -93,7 +94,7 @@
     function flip(){
       $("#hidimg").attr('src',pages[page+1]);
       //$("#hidimg2").attr('src',pages[page+1]);
-      $(".wide").css('background-image','url('+pages[page]+')'); 
+      //$(".wide").css('background-image','url('+pages[page]+')'); 
       $("html, body").animate({ scrollTop: "0px", scrollLeft: "0px" });
       if(page >= pages.length - 2){
         page = pages.length - 2;
@@ -133,7 +134,7 @@
     <a id="jumpf" class="btn btn-primary">Jump 10</a>
     <a id="next" class="btn btn-primary">Next</a>
   </div>
-  <img id="hidimg" src="placeholder.png" style="visibility: hidden;" />
+  <img id="hidimg" src="placeholder.png" />
 </div>
 
 </body>
