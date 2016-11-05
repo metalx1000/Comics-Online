@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!DOCTYPE htmDl>
 <html lang="en">
 <head>
   <title>Comic Reader</title>
@@ -20,6 +20,9 @@
       padding-top: 0px;
     }
 
+    #preload{
+      display:none;
+    }
     .wide {
       width:100%;
       height:100%;
@@ -63,7 +66,7 @@
         pages = data.split("\n");
         count = pages.length;
       }).done(function(){
-        $("#hidimg").attr('src',pages[page]);
+        $("#comicPage").attr('src',pages[page]);
         //$(".wide").css('background-image','url('+pages[page]+')');
         pageCount();
       });
@@ -92,8 +95,8 @@
 
 
     function flip(){
-      $("#hidimg").attr('src',pages[page+1]);
-      //$("#hidimg2").attr('src',pages[page+1]);
+      $("#comicPage").attr('src',pages[page+1]);
+      $("#preload").attr('src',pages[page+2]);
       //$(".wide").css('background-image','url('+pages[page]+')'); 
       $("html, body").animate({ scrollTop: "0px", scrollLeft: "0px" });
       if(page >= pages.length - 2){
@@ -134,7 +137,8 @@
     <a id="jumpf" class="btn btn-primary">Jump 10</a>
     <a id="next" class="btn btn-primary">Next</a>
   </div>
-  <img id="hidimg" src="placeholder.png" />
+  <img id="comicPage" src="placeholder.png" />
+  <img id="preload">
 </div>
 
 </body>
