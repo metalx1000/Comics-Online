@@ -57,14 +57,13 @@
   <script>
     var pages;
     var page=0;
-    var count;
 
     $(document).ready(function(){
       //get the pages
       var comic = getVar("comic");
       $.get("comics/"+comic,function(data){
         pages = data.split("\n");
-        count = pages.length;
+        pages = cleanArray(pages);
       }).done(function(){
         $("#comicPage").attr('src',pages[page]);
         //$(".wide").css('background-image','url('+pages[page]+')');
@@ -95,23 +94,23 @@
 
 
     function flip(){
-      $("#comicPage").attr('src',pages[page+1]);
-      $("#preload").attr('src',pages[page+2]);
-      //$(".wide").css('background-image','url('+pages[page]+')'); 
-      $("html, body").animate({ scrollTop: "0px", scrollLeft: "0px" });
-      if(page >= pages.length - 2){
-        page = pages.length - 2;
+      if(page >= pages.length){
+        page = pages.length - 1;
       }else if (page <= 0){
         page = 0;
       }
 
-
+      $("#comicPage").attr('src',pages[page]);
+      $("#preload").attr('src',pages[page+1]);
+      //$(".wide").css('background-image','url('+pages[page]+')'); 
+      $("html, body").animate({ scrollTop: "0px", scrollLeft: "0px" });
+    
       pageCount();
     }
 
     function pageCount(){
-      var total = pages.length-2;
-      $("#page").html(page+1+" of "+total);
+      var total = pages.length - 1;
+      $("#page").html(page + " of "+total);
     }
 
     function getVar(name, url) {
@@ -122,6 +121,17 @@
         if (!results) return null;
         if (!results[2]) return '';
         return decodeURIComponent(results[2].replace(/\+/g, " "));
+    }
+
+    // Will remove all falsy values: undefined, null, 0, false, NaN and "" (empty string)
+    function cleanArray(actual) {
+      var newArray = new Array();
+      for (var i = 0; i < actual.length; i++) {
+        if (actual[i]) {
+          newArray.push(actual[i]);
+        }
+      }
+      return newArray;
     }
   </script>
 </head>

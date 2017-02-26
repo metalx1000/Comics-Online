@@ -5,10 +5,10 @@
 <!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-  <title>Spider-Man 2099 (2015) #16 - Read Spider-Man 2099 (2015) Issue #16 Online | Full Page</title>
-      <meta name="keywords" content="read Spider-Man 2099 (2015) issue 16 online, free Spider-Man 2099 (2015) 16, read Spider-Man 2099 (2015) manga online">
-        <meta name="description" content="Read Spider-Man 2099 (2015) Issue #16 Online. Spider-Man 2099 (2015) #16 in one page for Free">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[(new Date).getTime()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=NREUM;"undefined"==typeof window.newrelic&&(newrelic=f);var s=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",p=l+"ixn-";a(s,function(e,t){f[t]=o(l+t,!0,"api")}),f.addPageAction=o(l+"addPageAction",!0),f.setCurrentRouteName=o(l+"routeName",!0),t.exports=newrelic,f.interaction=function(){return(new r).get()};var d=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(p+"tracer",[Date.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[Date.now(),r,o],n),o)try{return t.apply(this,arguments)}finally{c.emit("fn-end",[Date.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){d[t]=o(p+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,(new Date).getTime()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o){if(!p.aborted){e&&e(n,r,o);for(var i=t(o),a=v(n),u=a.length,c=0;c<u;c++)a[c].apply(i,r);var f=s[w[n]];return f&&f.push([y,n,r,i]),i}}function d(e,t){b[e]=v(e).concat(t)}function v(e){return b[e]||[]}function g(e){return l[e]=l[e]||o(n)}function m(e,t){f(e,function(e,n){t=t||"feature",w[n]=t,t in s||(s[t]=[])})}var b={},w={},y={on:d,emit:n,get:g,listeners:v,context:t,buffer:m,abort:a,aborted:!1};return y}function i(){return new r}function a(){(s.api||s.feature)&&(p.aborted=!0,s=p.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},l={},p=t.exports=o();p.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!h++){var e=y.info=NREUM.info,t=l.getElementsByTagName("script")[0];if(setTimeout(f.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return f.abort();c(b,function(t,n){e[t]||(e[t]=n)}),u("mark",["onload",a()],null,"api");var n=l.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===l.readyState&&i()}function i(){u("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var u=e("handle"),c=e(2),f=e("ee"),s=window,l=s.document,p="addEventListener",d="attachEvent",v=s.XMLHttpRequest,g=v&&v.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:v,REQ:s.Request,EV:s.Event,PR:s.Promise,MO:s.MutationObserver},e(1);var m=""+location,b={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1016.min.js"},w=v&&g&&g[p]&&!/CriOS/.test(navigator.userAgent),y=t.exports={offset:a(),origin:m,features:{},xhrWrappable:w};l[p]?(l[p]("DOMContentLoaded",i,!1),s[p]("load",r,!1)):(l[d]("onreadystatechange",o),s[d]("onload",r)),u("mark",["firstbyte",a()],null,"api");var h=0},{}]},{},["loader"]);</script>
+  <title>All-New X-Men Special #1 - Read All-New X-Men Special Issue #1 Online | Full Page</title>
+      <meta name="keywords" content="read All-New X-Men Special issue 1 online, free All-New X-Men Special 1, read All-New X-Men Special manga online">
+        <meta name="description" content="Read All-New X-Men Special Issue #1 Online. All-New X-Men Special #1 in one page for Free">
     <meta name="viewport" content="width=device-width">
   <link rel="stylesheet" href="http://readcomics.tv/styles/front/main.css">
   <script type="text/javascript" src="http://www.readcomics.tv/scripts/mootools-core-1.3.2.js"></script>
@@ -36,9 +36,13 @@
       <ul class="main-menu">
         <li><a href="http://readcomics.tv/">Home</a></li>
         <li><a href="http://readcomics.tv/advanced-search">Advanced Search</a></li>
-        <li><a href="http://readcomics.tv/popular-comic">Popular Comics</a></li>
-        <li><a href="http://readcomics.tv/comic-list">Comic List</a></li>
-        <li><a href="http://readcomics.tv/comic-updates">Latest Releases</a></li>
+        <li><a href="http://readcomics.tv/popular-comic">Popular</a></li>
+        <li><a href="http://readcomics.tv/comic-list">A-Z List</a></li>
+        <li><a href="http://readcomics.tv/comic-updates">Latest</a></li>
+        <li><a class="manime" href="http://www.animexd.com" target="_blank" rel="nofollow">Watch Anime</a></li>
+        <li><a class="mcartoon" href="http://www.toonova.net" target="_blank" rel="nofollow">Watch Cartoons</a></li>
+        <li><a class="mseries" href="http://www.watchepisodeseries.com" target="_blank" rel="nofollow">Watch Series</a></li>
+ 
       </ul>
       <!-- Main Menu -->
       <!-- Main Search -->
@@ -127,25 +131,38 @@
     </script>
     <script type="text/javascript" src="http://srv.bebi.com/public/js/bebi_v1.js"></script>
     </div>
+      <div class="full tc">
+    <script language="JavaScript" type="text/javascript">
+        var bebi_acc = '1';
+        var bebi_campaign = '804';
+    </script>
+    <script type="text/javascript" src="http://srv.bebi.com/public/js/bebi_v1.js"></script>
+    </div>
+        <script language="JavaScript" type="text/javascript">
+        var bebi_acc = '1';
+        var bebi_campaign = '803';
+    </script>
+    <script type="text/javascript" src="http://srv.bebi.com/public/js/bebi_v1.js"></script>
+      <!-- CT Right aaa -->
     <!-- Chapter Title -->
     <div class="chapter-title">
       <!-- CT Left -->
       <div class="ct-left">
         <div class="title">
-          <h1>Spider-Man 2099 (2015) #16</h1><h2><a href="http://readcomics.tv/comic/spider-man-2099-2015">Spider-Man 2099 (2015) Comic</a></h2>
+          <h1>All-New X-Men Special #1</h1><h2><a href="http://readcomics.tv/comic/all-new-x-men-special">All-New X-Men Special Comic</a></h2>
         </div>
         <table class="full-table">
           <tr>
             <td width="40%" class="chapter_select_col">
               <select name="chapter_select" class="full-select">
-                <option selected="selected">Spider-Man 2099 (2015) Chapter 16 </option>
+                <option selected="selected">All-New X-Men Special Chapter 1 </option>
               </select>
             </td>
             <td>
               <!-- Chapter Navigation type Buttons -->
               <div class="chapter-nt-bts">
-                <div class="chapter-nt-b"><a href="http://readcomics.tv/spider-man-2099-2015/chapter-16">Multi Page</a></div>
-                <div class="chapter-nt-b"><a href="http://readcomics.tv/spider-man-2099-2015/chapter-16/single">Single Page</a></div>
+                <div class="chapter-nt-b"><a href="http://readcomics.tv/all-new-x-men-special/chapter-1">Multi Page</a></div>
+                <div class="chapter-nt-b"><a href="http://readcomics.tv/all-new-x-men-special/chapter-1/single">Single Page</a></div>
                 <div class="chapter-nt-b active">Full Chapter</div>
               </div>
               <!-- Chapter Navigation type Buttons -->
@@ -162,15 +179,13 @@
       </div>
       <!-- CT Left -->
 
-      <!-- CT Right aaa -->
       <div class="ct-right">
         <div class="title">Chapter:</div>
         <table class="full-table">
           <tr>
             <td>
-                              <a href="http://readcomics.tv/spider-man-2099-2015/chapter-15/full" class="nav prev">Previous</a>
                 
-                              <a href="http://readcomics.tv/spider-man-2099-2015/chapter-17/full" class="nav next">Next</a>
+                              <a href="http://readcomics.tv/all-new-x-men-special/chapter-2/full" class="nav next">Next</a>
                 
             </td>
           </tr>
@@ -191,30 +206,36 @@
           <a href="#smaller" class="resize" onClick="return zoom('-')">-</a>
         </div>
 
-                      <img class="chapter_img" style="margin-bottom: 20px; max-width: 100%;" src="http://www.readcomics.tv/images/manga/spider-man-2099-2015/16/1.jpg" alt="Spider-Man 2099 (2015) 16 Page 0" />
-                      <img class="chapter_img" style="margin-bottom: 20px; max-width: 100%;" src="http://www.readcomics.tv/images/manga/spider-man-2099-2015/16/2.jpg" alt="Spider-Man 2099 (2015) 16 Page 1" />
-                      <img class="chapter_img" style="margin-bottom: 20px; max-width: 100%;" src="http://www.readcomics.tv/images/manga/spider-man-2099-2015/16/3.jpg" alt="Spider-Man 2099 (2015) 16 Page 2" />
-                      <img class="chapter_img" style="margin-bottom: 20px; max-width: 100%;" src="http://www.readcomics.tv/images/manga/spider-man-2099-2015/16/4.jpg" alt="Spider-Man 2099 (2015) 16 Page 3" />
-                      <img class="chapter_img" style="margin-bottom: 20px; max-width: 100%;" src="http://www.readcomics.tv/images/manga/spider-man-2099-2015/16/5.jpg" alt="Spider-Man 2099 (2015) 16 Page 4" />
-                      <img class="chapter_img" style="margin-bottom: 20px; max-width: 100%;" src="http://www.readcomics.tv/images/manga/spider-man-2099-2015/16/6.jpg" alt="Spider-Man 2099 (2015) 16 Page 5" />
-                      <img class="chapter_img" style="margin-bottom: 20px; max-width: 100%;" src="http://www.readcomics.tv/images/manga/spider-man-2099-2015/16/7.jpg" alt="Spider-Man 2099 (2015) 16 Page 6" />
-                      <img class="chapter_img" style="margin-bottom: 20px; max-width: 100%;" src="http://www.readcomics.tv/images/manga/spider-man-2099-2015/16/8.jpg" alt="Spider-Man 2099 (2015) 16 Page 7" />
-                      <img class="chapter_img" style="margin-bottom: 20px; max-width: 100%;" src="http://www.readcomics.tv/images/manga/spider-man-2099-2015/16/9.jpg" alt="Spider-Man 2099 (2015) 16 Page 8" />
-                      <img class="chapter_img" style="margin-bottom: 20px; max-width: 100%;" src="http://www.readcomics.tv/images/manga/spider-man-2099-2015/16/10.jpg" alt="Spider-Man 2099 (2015) 16 Page 9" />
-                      <img class="chapter_img" style="margin-bottom: 20px; max-width: 100%;" src="http://www.readcomics.tv/images/manga/spider-man-2099-2015/16/11.jpg" alt="Spider-Man 2099 (2015) 16 Page 10" />
-                      <img class="chapter_img" style="margin-bottom: 20px; max-width: 100%;" src="http://www.readcomics.tv/images/manga/spider-man-2099-2015/16/12.jpg" alt="Spider-Man 2099 (2015) 16 Page 11" />
-                      <img class="chapter_img" style="margin-bottom: 20px; max-width: 100%;" src="http://www.readcomics.tv/images/manga/spider-man-2099-2015/16/13.jpg" alt="Spider-Man 2099 (2015) 16 Page 12" />
-                      <img class="chapter_img" style="margin-bottom: 20px; max-width: 100%;" src="http://www.readcomics.tv/images/manga/spider-man-2099-2015/16/14.jpg" alt="Spider-Man 2099 (2015) 16 Page 13" />
-                      <img class="chapter_img" style="margin-bottom: 20px; max-width: 100%;" src="http://www.readcomics.tv/images/manga/spider-man-2099-2015/16/15.jpg" alt="Spider-Man 2099 (2015) 16 Page 14" />
-                      <img class="chapter_img" style="margin-bottom: 20px; max-width: 100%;" src="http://www.readcomics.tv/images/manga/spider-man-2099-2015/16/16.jpg" alt="Spider-Man 2099 (2015) 16 Page 15" />
-                      <img class="chapter_img" style="margin-bottom: 20px; max-width: 100%;" src="http://www.readcomics.tv/images/manga/spider-man-2099-2015/16/17.jpg" alt="Spider-Man 2099 (2015) 16 Page 16" />
-                      <img class="chapter_img" style="margin-bottom: 20px; max-width: 100%;" src="http://www.readcomics.tv/images/manga/spider-man-2099-2015/16/18.jpg" alt="Spider-Man 2099 (2015) 16 Page 17" />
-                      <img class="chapter_img" style="margin-bottom: 20px; max-width: 100%;" src="http://www.readcomics.tv/images/manga/spider-man-2099-2015/16/19.jpg" alt="Spider-Man 2099 (2015) 16 Page 18" />
-                      <img class="chapter_img" style="margin-bottom: 20px; max-width: 100%;" src="http://www.readcomics.tv/images/manga/spider-man-2099-2015/16/20.jpg" alt="Spider-Man 2099 (2015) 16 Page 19" />
-                      <img class="chapter_img" style="margin-bottom: 20px; max-width: 100%;" src="http://www.readcomics.tv/images/manga/spider-man-2099-2015/16/21.jpg" alt="Spider-Man 2099 (2015) 16 Page 20" />
-                      <img class="chapter_img" style="margin-bottom: 20px; max-width: 100%;" src="http://www.readcomics.tv/images/manga/spider-man-2099-2015/16/22.jpg" alt="Spider-Man 2099 (2015) 16 Page 21" />
-                      <img class="chapter_img" style="margin-bottom: 20px; max-width: 100%;" src="http://www.readcomics.tv/images/manga/spider-man-2099-2015/16/23.jpg" alt="Spider-Man 2099 (2015) 16 Page 22" />
-                      <img class="chapter_img" style="margin-bottom: 20px; max-width: 100%;" src="http://www.readcomics.tv/images/manga/spider-man-2099-2015/16/24.jpg" alt="Spider-Man 2099 (2015) 16 Page 23" />
+                      <img class="chapter_img" style="margin-bottom: 20px; max-width: 100%;" src="http://www.readcomics.tv/images/manga/all-new-x-men-special/1/1.jpg" alt="All-New X-Men Special 1 Page 0" />
+                      <img class="chapter_img" style="margin-bottom: 20px; max-width: 100%;" src="http://www.readcomics.tv/images/manga/all-new-x-men-special/1/2.jpg" alt="All-New X-Men Special 1 Page 1" />
+                      <img class="chapter_img" style="margin-bottom: 20px; max-width: 100%;" src="http://www.readcomics.tv/images/manga/all-new-x-men-special/1/3.jpg" alt="All-New X-Men Special 1 Page 2" />
+                      <img class="chapter_img" style="margin-bottom: 20px; max-width: 100%;" src="http://www.readcomics.tv/images/manga/all-new-x-men-special/1/4.jpg" alt="All-New X-Men Special 1 Page 3" />
+                      <img class="chapter_img" style="margin-bottom: 20px; max-width: 100%;" src="http://www.readcomics.tv/images/manga/all-new-x-men-special/1/5.jpg" alt="All-New X-Men Special 1 Page 4" />
+                      <img class="chapter_img" style="margin-bottom: 20px; max-width: 100%;" src="http://www.readcomics.tv/images/manga/all-new-x-men-special/1/6.jpg" alt="All-New X-Men Special 1 Page 5" />
+                      <img class="chapter_img" style="margin-bottom: 20px; max-width: 100%;" src="http://www.readcomics.tv/images/manga/all-new-x-men-special/1/7.jpg" alt="All-New X-Men Special 1 Page 6" />
+                      <img class="chapter_img" style="margin-bottom: 20px; max-width: 100%;" src="http://www.readcomics.tv/images/manga/all-new-x-men-special/1/8.jpg" alt="All-New X-Men Special 1 Page 7" />
+                      <img class="chapter_img" style="margin-bottom: 20px; max-width: 100%;" src="http://www.readcomics.tv/images/manga/all-new-x-men-special/1/9.jpg" alt="All-New X-Men Special 1 Page 8" />
+                      <img class="chapter_img" style="margin-bottom: 20px; max-width: 100%;" src="http://www.readcomics.tv/images/manga/all-new-x-men-special/1/10.jpg" alt="All-New X-Men Special 1 Page 9" />
+                      <img class="chapter_img" style="margin-bottom: 20px; max-width: 100%;" src="http://www.readcomics.tv/images/manga/all-new-x-men-special/1/11.jpg" alt="All-New X-Men Special 1 Page 10" />
+                      <img class="chapter_img" style="margin-bottom: 20px; max-width: 100%;" src="http://www.readcomics.tv/images/manga/all-new-x-men-special/1/12.jpg" alt="All-New X-Men Special 1 Page 11" />
+                      <img class="chapter_img" style="margin-bottom: 20px; max-width: 100%;" src="http://www.readcomics.tv/images/manga/all-new-x-men-special/1/13.jpg" alt="All-New X-Men Special 1 Page 12" />
+                      <img class="chapter_img" style="margin-bottom: 20px; max-width: 100%;" src="http://www.readcomics.tv/images/manga/all-new-x-men-special/1/14.jpg" alt="All-New X-Men Special 1 Page 13" />
+                      <img class="chapter_img" style="margin-bottom: 20px; max-width: 100%;" src="http://www.readcomics.tv/images/manga/all-new-x-men-special/1/15.jpg" alt="All-New X-Men Special 1 Page 14" />
+                      <img class="chapter_img" style="margin-bottom: 20px; max-width: 100%;" src="http://www.readcomics.tv/images/manga/all-new-x-men-special/1/16.jpg" alt="All-New X-Men Special 1 Page 15" />
+                      <img class="chapter_img" style="margin-bottom: 20px; max-width: 100%;" src="http://www.readcomics.tv/images/manga/all-new-x-men-special/1/17.jpg" alt="All-New X-Men Special 1 Page 16" />
+                      <img class="chapter_img" style="margin-bottom: 20px; max-width: 100%;" src="http://www.readcomics.tv/images/manga/all-new-x-men-special/1/18.jpg" alt="All-New X-Men Special 1 Page 17" />
+                      <img class="chapter_img" style="margin-bottom: 20px; max-width: 100%;" src="http://www.readcomics.tv/images/manga/all-new-x-men-special/1/19.jpg" alt="All-New X-Men Special 1 Page 18" />
+                      <img class="chapter_img" style="margin-bottom: 20px; max-width: 100%;" src="http://www.readcomics.tv/images/manga/all-new-x-men-special/1/20.jpg" alt="All-New X-Men Special 1 Page 19" />
+                      <img class="chapter_img" style="margin-bottom: 20px; max-width: 100%;" src="http://www.readcomics.tv/images/manga/all-new-x-men-special/1/21.jpg" alt="All-New X-Men Special 1 Page 20" />
+                      <img class="chapter_img" style="margin-bottom: 20px; max-width: 100%;" src="http://www.readcomics.tv/images/manga/all-new-x-men-special/1/22.jpg" alt="All-New X-Men Special 1 Page 21" />
+                      <img class="chapter_img" style="margin-bottom: 20px; max-width: 100%;" src="http://www.readcomics.tv/images/manga/all-new-x-men-special/1/23.jpg" alt="All-New X-Men Special 1 Page 22" />
+                      <img class="chapter_img" style="margin-bottom: 20px; max-width: 100%;" src="http://www.readcomics.tv/images/manga/all-new-x-men-special/1/24.jpg" alt="All-New X-Men Special 1 Page 23" />
+                      <img class="chapter_img" style="margin-bottom: 20px; max-width: 100%;" src="http://www.readcomics.tv/images/manga/all-new-x-men-special/1/25.jpg" alt="All-New X-Men Special 1 Page 24" />
+                      <img class="chapter_img" style="margin-bottom: 20px; max-width: 100%;" src="http://www.readcomics.tv/images/manga/all-new-x-men-special/1/26.jpg" alt="All-New X-Men Special 1 Page 25" />
+                      <img class="chapter_img" style="margin-bottom: 20px; max-width: 100%;" src="http://www.readcomics.tv/images/manga/all-new-x-men-special/1/27.jpg" alt="All-New X-Men Special 1 Page 26" />
+                      <img class="chapter_img" style="margin-bottom: 20px; max-width: 100%;" src="http://www.readcomics.tv/images/manga/all-new-x-men-special/1/28.jpg" alt="All-New X-Men Special 1 Page 27" />
+                      <img class="chapter_img" style="margin-bottom: 20px; max-width: 100%;" src="http://www.readcomics.tv/images/manga/all-new-x-men-special/1/29.jpg" alt="All-New X-Men Special 1 Page 28" />
+                      <img class="chapter_img" style="margin-bottom: 20px; max-width: 100%;" src="http://www.readcomics.tv/images/manga/all-new-x-men-special/1/30.jpg" alt="All-New X-Men Special 1 Page 29" />
                   </div>
 </div>
 <script type="text/javascript">
@@ -276,7 +297,7 @@ else if (window.attachEvent) // Microsoft
     <div class="c-bottom-nav">
       <!-- Chapter Tip -->
       <div class="tip">
-        <strong>Tip:</strong> Click on the Spider-Man 2099 (2015) 16 comic image to go to the next page. You can use left and right keyboard keys to browse between pages.
+        <strong>Tip:</strong> Click on the All-New X-Men Special 1 comic image to go to the next page. You can use left and right keyboard keys to browse between pages.
       </div>
       <!-- Chapter Tip -->
       <!-- CT Right -->
@@ -284,9 +305,8 @@ else if (window.attachEvent) // Microsoft
         <table class="full-table">
           <tr>
             <td>
-                              <a href="http://readcomics.tv/spider-man-2099-2015/chapter-15/full" class="nav prev">Previous</a>
                 
-                              <a href="http://readcomics.tv/spider-man-2099-2015/chapter-17/full" class="nav next">Next</a>
+                              <a href="http://readcomics.tv/all-new-x-men-special/chapter-2/full" class="nav next">Next</a>
                 
             </td>
           </tr>
@@ -299,21 +319,20 @@ else if (window.attachEvent) // Microsoft
     <!-- Bottom Details -->
     <div class="bottom-details">
       <div class="mangainfo-top">
-        <span class="mi-title">Spider-Man 2099 (2015) 16 Chapter Navigation:</span><br>
-                  Previous Issue #: <a href="http://readcomics.tv/spider-man-2099-2015/chapter-15/full">Spider-Man 2099 (2015) 15</a> <br />
-                  Latest Issue #: <a href="http://readcomics.tv/spider-man-2099-2015/chapter-16/full">Spider-Man 2099 (2015) 16</a> <br />
-                  Upcoming Issue #: <a href="http://readcomics.tv/spider-man-2099-2015/chapter-17/full">Spider-Man 2099 (2015) 17</a> <br />
+        <span class="mi-title">All-New X-Men Special 1 Chapter Navigation:</span><br>
+                  Latest Issue #: <a href="http://readcomics.tv/all-new-x-men-special/chapter-1/full">All-New X-Men Special 1</a> <br />
+                  Upcoming Issue #: <a href="http://readcomics.tv/all-new-x-men-special/chapter-2/full">All-New X-Men Special 2</a> <br />
               </div>
       
       <div class="mangainfo-bottom">
-        <span class="mi-title">Spider-Man 2099 (2015) #16 Release Information:</span><br>
-        <strong>Spider-Man 2099 (2015) #16</strong> <b>is released!</b> You are now reading <a href="http://readcomics.tv/spider-man-2099-2015/chapter-16"><strong>Spider-Man 2099 (2015) #16</strong></a> online. If you are bored from <strong>Spider-Man 2099 (2015)</strong> comic, you can try surprise me link at top of page or select another comic like Spider-Man 2099 (2015) 16 from our huge <a href="http://readcomics.tv/comic-list">comic list</a>.<br>
-        Spider-Man 2099 (2015) 16 released in readcomics.tv fastest, recommend your friends to read <strong>Spider-Man 2099 (2015) #16</strong> now!<br>
-        Best regards; <a href="http://readcomics.tv/">readcomics.tv</a>: #1 resource for <a href="http://readcomics.tv/comic/spider-man-2099-2015"><strong>Spider-Man 2099 (2015)</strong></a> Scans Online.
+        <span class="mi-title">All-New X-Men Special #1 Release Information:</span><br>
+        <strong>All-New X-Men Special #1</strong> <b>is released!</b> You are now reading <a href="http://readcomics.tv/all-new-x-men-special/chapter-1"><strong>All-New X-Men Special #1</strong></a> online. If you are bored from <strong>All-New X-Men Special</strong> comic, you can try surprise me link at top of page or select another comic like All-New X-Men Special 1 from our huge <a href="http://readcomics.tv/comic-list">comic list</a>.<br>
+        All-New X-Men Special 1 released in readcomics.tv fastest, recommend your friends to read <strong>All-New X-Men Special #1</strong> now!<br>
+        Best regards; <a href="http://readcomics.tv/">readcomics.tv</a>: #1 resource for <a href="http://readcomics.tv/comic/all-new-x-men-special"><strong>All-New X-Men Special</strong></a> Scans Online.
       </div>
 
       <div class="manga-related">
-        <span class="mi-title">Spider-Man 2099 (2015) #16 Comic Relations</span><br>
+        <span class="mi-title">All-New X-Men Special #1 Comic Relations</span><br>
                   No related comics available to display.
               </div>
     </div>
@@ -331,7 +350,7 @@ else if (window.attachEvent) // Microsoft
 <!-- Container --> 
 <div id="assets">
   <div id="asset_1">
-    <select name="chapter_select" class="full-select"><option value="http://readcomics.tv/spider-man-2099-2015/chapter-1/full">Spider-Man 2099 (2015) Issue #1 </option><option value="http://readcomics.tv/spider-man-2099-2015/chapter-2/full">Spider-Man 2099 (2015) Issue #2 </option><option value="http://readcomics.tv/spider-man-2099-2015/chapter-3/full">Spider-Man 2099 (2015) Issue #3 </option><option value="http://readcomics.tv/spider-man-2099-2015/chapter-4/full">Spider-Man 2099 (2015) Issue #4 </option><option value="http://readcomics.tv/spider-man-2099-2015/chapter-5/full">Spider-Man 2099 (2015) Issue #5 </option><option value="http://readcomics.tv/spider-man-2099-2015/chapter-6/full">Spider-Man 2099 (2015) Issue #6 </option><option value="http://readcomics.tv/spider-man-2099-2015/chapter-7/full">Spider-Man 2099 (2015) Issue #7 </option><option value="http://readcomics.tv/spider-man-2099-2015/chapter-8/full">Spider-Man 2099 (2015) Issue #8 </option><option value="http://readcomics.tv/spider-man-2099-2015/chapter-9/full">Spider-Man 2099 (2015) Issue #9 </option><option value="http://readcomics.tv/spider-man-2099-2015/chapter-10/full">Spider-Man 2099 (2015) Issue #10 </option><option value="http://readcomics.tv/spider-man-2099-2015/chapter-11/full">Spider-Man 2099 (2015) Issue #11 </option><option value="http://readcomics.tv/spider-man-2099-2015/chapter-12/full">Spider-Man 2099 (2015) Issue #12 </option><option value="http://readcomics.tv/spider-man-2099-2015/chapter-13/full">Spider-Man 2099 (2015) Issue #13 </option><option value="http://readcomics.tv/spider-man-2099-2015/chapter-14/full">Spider-Man 2099 (2015) Issue #14 </option><option value="http://readcomics.tv/spider-man-2099-2015/chapter-15/full">Spider-Man 2099 (2015) Issue #15 </option><option value="http://readcomics.tv/spider-man-2099-2015/chapter-16/full" selected="selected">Spider-Man 2099 (2015) Issue #16 </option></select> 
+    <select name="chapter_select" class="full-select"><option value="http://readcomics.tv/all-new-x-men-special/chapter-1/full" selected="selected">All-New X-Men Special Issue #1 </option></select> 
   </div>
 </div>
     <!-- Container -->
@@ -385,5 +404,5 @@ else if (window.attachEvent) // Microsoft
            <script src="http://www.readcomics.tv/scripts/front/dropdowns.js"></script>
            <script src="http://www.readcomics.tv/scripts/front/main_manga.js"></script>
         <script>window.jQuery || document.write('<script src="scripts/front/libs/jquery-1.7.1.min.js"><\/script>')</script>
-</body>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"663f71814d","applicationID":"43994493","transactionName":"blAEYkIEVkFZAhJeDVcaJ1VEDFdcFwwHWQVYGgBDXAlnUVAAFkMHSw==","queueTime":0,"applicationTime":82,"atts":"QhcHFAoeRU8=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
 </html> 

@@ -10,7 +10,7 @@ fi
 rm comic.tmp
 wget -q "$1" -O comic.tmp
 title="$(cat comic.tmp|grep '<title>'|head -n1|cut -d\> -f2|\
-  cut -d\< -f1|sed 's/ - /|/g'|cut -d\| -f1|sed -e 's/&/and/g' -e 's/#/-/g')"
+  cut -d\< -f1|sed 's/ - Read /|/g'|cut -d\| -f1|sed -e 's/&/and/g' -e 's/#/-/g' -e 's/\//-/g')"
 echo "Getting $title..."
 cat comic.tmp|grep chapter_img|grep '.jpg'|cut -d\" -f6 > "comics/$title.php"
 
