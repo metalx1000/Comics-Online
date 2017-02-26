@@ -35,7 +35,7 @@
       $.get('list.php',function(data){
         comics = data.split("\n").sort();
         comics.forEach(function(comic){
-          if(comic != ""){
+          if(comic != "" && comic != ".php"){
             var x = "";
             if(read != null){
               read.forEach(function(l){
