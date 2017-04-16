@@ -1,0 +1,22 @@
+#!/bin/bash
+
+if [ $# -lt 1 ]
+then
+  echo "URL needed..."
+  echo "example: $0 'http://readcomics.website/comic/old-man-logan-2015/21'"
+  exit 1
+fi
+
+url="$1"
+title="$(echo "$1"|cut -d\/ -f5)"
+chapter="$(echo "$1"|cut -d\/ -f6)"
+
+#get number of pages
+let pages="$(wget "$url" -q -O-|grep '<option'|tail -n1|cut -d\> -f2|cut -d\< -f1)"
+
+echo "$title $chapter has $pages pages."
+
+for i in `seq -f "%02g" 01 $pages`
+do
+  echo "http://readcomics.website/uploads/manga/$title/chapters/$chapter/$i.jpg"
+done > comics/${title}_${chapter}.php
